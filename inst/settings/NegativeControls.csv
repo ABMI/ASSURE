@@ -1,0 +1,1303 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+862,867,376707,Acute conjunctivitis,outcome
+862,867,378424,Astigmatism,outcome
+862,867,381581,Chalazion,outcome
+862,867,134438,Contact dermatitis,outcome
+862,867,201606,Crohn's disease,outcome
+862,867,260134,Croup,outcome
+862,867,196456,Gallstone,outcome
+862,867,4166231,Genetic predisposition,outcome
+862,867,441788,Human papilloma virus infection,outcome
+862,867,140480,Impetigo,outcome
+862,867,139099,Ingrowing nail,outcome
+862,867,75576,Irritable bowel syndrome,outcome
+862,867,4134455,Mononeuropathy,outcome
+862,867,4215978,Onychomycosis,outcome
+862,867,140648,Onychomycosis due to dermatophyte,outcome
+862,867,4091513,Passing flatus,outcome
+862,867,4112731,Polyp of intestine,outcome
+862,867,4234533,Tonsillitis,outcome
+862,867,81893,Ulcerative colitis,outcome
+862,867,140641,Verruca vulgaris,outcome
+862,867,260427,Common cold,outcome
+862,867,379019,Conjunctivitis,outcome
+862,867,4332246,Aneurysm,outcome
+862,867,432585,Blood coagulation disorder,outcome
+862,867,195588,Cystitis,outcome
+862,867,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+862,867,4010658,Difficulty passing urine,outcome
+862,867,440674,Gout,outcome
+862,867,4078925,Pulmonary edema,outcome
+862,867,378416,Retinal disorder,outcome
+862,867,138455,Stomatitis,outcome
+877,862,376707,Acute conjunctivitis,outcome
+877,862,378424,Astigmatism,outcome
+877,862,381581,Chalazion,outcome
+877,862,134438,Contact dermatitis,outcome
+877,862,201606,Crohn's disease,outcome
+877,862,260134,Croup,outcome
+877,862,196456,Gallstone,outcome
+877,862,4166231,Genetic predisposition,outcome
+877,862,441788,Human papilloma virus infection,outcome
+877,862,140480,Impetigo,outcome
+877,862,139099,Ingrowing nail,outcome
+877,862,75576,Irritable bowel syndrome,outcome
+877,862,4134455,Mononeuropathy,outcome
+877,862,4215978,Onychomycosis,outcome
+877,862,140648,Onychomycosis due to dermatophyte,outcome
+877,862,4091513,Passing flatus,outcome
+877,862,4112731,Polyp of intestine,outcome
+877,862,4234533,Tonsillitis,outcome
+877,862,81893,Ulcerative colitis,outcome
+877,862,140641,Verruca vulgaris,outcome
+877,862,260427,Common cold,outcome
+877,862,379019,Conjunctivitis,outcome
+877,862,4332246,Aneurysm,outcome
+877,862,432585,Blood coagulation disorder,outcome
+877,862,195588,Cystitis,outcome
+877,862,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+877,862,4010658,Difficulty passing urine,outcome
+877,862,440674,Gout,outcome
+877,862,4078925,Pulmonary edema,outcome
+877,862,378416,Retinal disorder,outcome
+877,862,138455,Stomatitis,outcome
+872,862,376707,Acute conjunctivitis,outcome
+872,862,378424,Astigmatism,outcome
+872,862,381581,Chalazion,outcome
+872,862,134438,Contact dermatitis,outcome
+872,862,201606,Crohn's disease,outcome
+872,862,260134,Croup,outcome
+872,862,196456,Gallstone,outcome
+872,862,4166231,Genetic predisposition,outcome
+872,862,441788,Human papilloma virus infection,outcome
+872,862,140480,Impetigo,outcome
+872,862,139099,Ingrowing nail,outcome
+872,862,75576,Irritable bowel syndrome,outcome
+872,862,4134455,Mononeuropathy,outcome
+872,862,4215978,Onychomycosis,outcome
+872,862,140648,Onychomycosis due to dermatophyte,outcome
+872,862,4091513,Passing flatus,outcome
+872,862,4112731,Polyp of intestine,outcome
+872,862,4234533,Tonsillitis,outcome
+872,862,81893,Ulcerative colitis,outcome
+872,862,140641,Verruca vulgaris,outcome
+872,862,260427,Common cold,outcome
+872,862,379019,Conjunctivitis,outcome
+872,862,4332246,Aneurysm,outcome
+872,862,432585,Blood coagulation disorder,outcome
+872,862,195588,Cystitis,outcome
+872,862,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+872,862,4010658,Difficulty passing urine,outcome
+872,862,440674,Gout,outcome
+872,862,4078925,Pulmonary edema,outcome
+872,862,378416,Retinal disorder,outcome
+872,862,138455,Stomatitis,outcome
+882,862,376707,Acute conjunctivitis,outcome
+882,862,378424,Astigmatism,outcome
+882,862,381581,Chalazion,outcome
+882,862,134438,Contact dermatitis,outcome
+882,862,201606,Crohn's disease,outcome
+882,862,260134,Croup,outcome
+882,862,196456,Gallstone,outcome
+882,862,4166231,Genetic predisposition,outcome
+882,862,441788,Human papilloma virus infection,outcome
+882,862,140480,Impetigo,outcome
+882,862,139099,Ingrowing nail,outcome
+882,862,75576,Irritable bowel syndrome,outcome
+882,862,4134455,Mononeuropathy,outcome
+882,862,4215978,Onychomycosis,outcome
+882,862,140648,Onychomycosis due to dermatophyte,outcome
+882,862,4091513,Passing flatus,outcome
+882,862,4112731,Polyp of intestine,outcome
+882,862,4234533,Tonsillitis,outcome
+882,862,81893,Ulcerative colitis,outcome
+882,862,140641,Verruca vulgaris,outcome
+882,862,260427,Common cold,outcome
+882,862,379019,Conjunctivitis,outcome
+882,862,4332246,Aneurysm,outcome
+882,862,432585,Blood coagulation disorder,outcome
+882,862,195588,Cystitis,outcome
+882,862,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+882,862,4010658,Difficulty passing urine,outcome
+882,862,440674,Gout,outcome
+882,862,4078925,Pulmonary edema,outcome
+882,862,378416,Retinal disorder,outcome
+882,862,138455,Stomatitis,outcome
+877,872,376707,Acute conjunctivitis,outcome
+877,872,378424,Astigmatism,outcome
+877,872,381581,Chalazion,outcome
+877,872,134438,Contact dermatitis,outcome
+877,872,201606,Crohn's disease,outcome
+877,872,260134,Croup,outcome
+877,872,196456,Gallstone,outcome
+877,872,4166231,Genetic predisposition,outcome
+877,872,441788,Human papilloma virus infection,outcome
+877,872,140480,Impetigo,outcome
+877,872,139099,Ingrowing nail,outcome
+877,872,75576,Irritable bowel syndrome,outcome
+877,872,4134455,Mononeuropathy,outcome
+877,872,4215978,Onychomycosis,outcome
+877,872,140648,Onychomycosis due to dermatophyte,outcome
+877,872,4091513,Passing flatus,outcome
+877,872,4112731,Polyp of intestine,outcome
+877,872,4234533,Tonsillitis,outcome
+877,872,81893,Ulcerative colitis,outcome
+877,872,140641,Verruca vulgaris,outcome
+877,872,260427,Common cold,outcome
+877,872,379019,Conjunctivitis,outcome
+877,872,4332246,Aneurysm,outcome
+877,872,432585,Blood coagulation disorder,outcome
+877,872,195588,Cystitis,outcome
+877,872,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+877,872,4010658,Difficulty passing urine,outcome
+877,872,440674,Gout,outcome
+877,872,4078925,Pulmonary edema,outcome
+877,872,378416,Retinal disorder,outcome
+877,872,138455,Stomatitis,outcome
+882,877,376707,Acute conjunctivitis,outcome
+882,877,378424,Astigmatism,outcome
+882,877,381581,Chalazion,outcome
+882,877,134438,Contact dermatitis,outcome
+882,877,201606,Crohn's disease,outcome
+882,877,260134,Croup,outcome
+882,877,196456,Gallstone,outcome
+882,877,4166231,Genetic predisposition,outcome
+882,877,441788,Human papilloma virus infection,outcome
+882,877,140480,Impetigo,outcome
+882,877,139099,Ingrowing nail,outcome
+882,877,75576,Irritable bowel syndrome,outcome
+882,877,4134455,Mononeuropathy,outcome
+882,877,4215978,Onychomycosis,outcome
+882,877,140648,Onychomycosis due to dermatophyte,outcome
+882,877,4091513,Passing flatus,outcome
+882,877,4112731,Polyp of intestine,outcome
+882,877,4234533,Tonsillitis,outcome
+882,877,81893,Ulcerative colitis,outcome
+882,877,140641,Verruca vulgaris,outcome
+882,877,260427,Common cold,outcome
+882,877,379019,Conjunctivitis,outcome
+882,877,4332246,Aneurysm,outcome
+882,877,432585,Blood coagulation disorder,outcome
+882,877,195588,Cystitis,outcome
+882,877,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+882,877,4010658,Difficulty passing urine,outcome
+882,877,440674,Gout,outcome
+882,877,4078925,Pulmonary edema,outcome
+882,877,378416,Retinal disorder,outcome
+882,877,138455,Stomatitis,outcome
+882,872,376707,Acute conjunctivitis,outcome
+882,872,378424,Astigmatism,outcome
+882,872,381581,Chalazion,outcome
+882,872,134438,Contact dermatitis,outcome
+882,872,201606,Crohn's disease,outcome
+882,872,260134,Croup,outcome
+882,872,196456,Gallstone,outcome
+882,872,4166231,Genetic predisposition,outcome
+882,872,441788,Human papilloma virus infection,outcome
+882,872,140480,Impetigo,outcome
+882,872,139099,Ingrowing nail,outcome
+882,872,75576,Irritable bowel syndrome,outcome
+882,872,4134455,Mononeuropathy,outcome
+882,872,4215978,Onychomycosis,outcome
+882,872,140648,Onychomycosis due to dermatophyte,outcome
+882,872,4091513,Passing flatus,outcome
+882,872,4112731,Polyp of intestine,outcome
+882,872,4234533,Tonsillitis,outcome
+882,872,81893,Ulcerative colitis,outcome
+882,872,140641,Verruca vulgaris,outcome
+882,872,260427,Common cold,outcome
+882,872,379019,Conjunctivitis,outcome
+882,872,4332246,Aneurysm,outcome
+882,872,432585,Blood coagulation disorder,outcome
+882,872,195588,Cystitis,outcome
+882,872,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+882,872,4010658,Difficulty passing urine,outcome
+882,872,440674,Gout,outcome
+882,872,4078925,Pulmonary edema,outcome
+882,872,378416,Retinal disorder,outcome
+882,872,138455,Stomatitis,outcome
+917,887,376707,Acute conjunctivitis,outcome
+917,887,378424,Astigmatism,outcome
+917,887,381581,Chalazion,outcome
+917,887,134438,Contact dermatitis,outcome
+917,887,201606,Crohn's disease,outcome
+917,887,260134,Croup,outcome
+917,887,196456,Gallstone,outcome
+917,887,4166231,Genetic predisposition,outcome
+917,887,441788,Human papilloma virus infection,outcome
+917,887,140480,Impetigo,outcome
+917,887,139099,Ingrowing nail,outcome
+917,887,75576,Irritable bowel syndrome,outcome
+917,887,4134455,Mononeuropathy,outcome
+917,887,4215978,Onychomycosis,outcome
+917,887,140648,Onychomycosis due to dermatophyte,outcome
+917,887,4091513,Passing flatus,outcome
+917,887,4112731,Polyp of intestine,outcome
+917,887,4234533,Tonsillitis,outcome
+917,887,81893,Ulcerative colitis,outcome
+917,887,140641,Verruca vulgaris,outcome
+917,887,260427,Common cold,outcome
+917,887,379019,Conjunctivitis,outcome
+917,887,4332246,Aneurysm,outcome
+917,887,432585,Blood coagulation disorder,outcome
+917,887,195588,Cystitis,outcome
+917,887,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+917,887,4010658,Difficulty passing urine,outcome
+917,887,440674,Gout,outcome
+917,887,4078925,Pulmonary edema,outcome
+917,887,378416,Retinal disorder,outcome
+917,887,138455,Stomatitis,outcome
+897,917,376707,Acute conjunctivitis,outcome
+897,917,378424,Astigmatism,outcome
+897,917,381581,Chalazion,outcome
+897,917,134438,Contact dermatitis,outcome
+897,917,201606,Crohn's disease,outcome
+897,917,260134,Croup,outcome
+897,917,196456,Gallstone,outcome
+897,917,4166231,Genetic predisposition,outcome
+897,917,441788,Human papilloma virus infection,outcome
+897,917,140480,Impetigo,outcome
+897,917,139099,Ingrowing nail,outcome
+897,917,75576,Irritable bowel syndrome,outcome
+897,917,4134455,Mononeuropathy,outcome
+897,917,4215978,Onychomycosis,outcome
+897,917,140648,Onychomycosis due to dermatophyte,outcome
+897,917,4091513,Passing flatus,outcome
+897,917,4112731,Polyp of intestine,outcome
+897,917,4234533,Tonsillitis,outcome
+897,917,81893,Ulcerative colitis,outcome
+897,917,140641,Verruca vulgaris,outcome
+897,917,260427,Common cold,outcome
+897,917,379019,Conjunctivitis,outcome
+897,917,4332246,Aneurysm,outcome
+897,917,432585,Blood coagulation disorder,outcome
+897,917,195588,Cystitis,outcome
+897,917,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+897,917,4010658,Difficulty passing urine,outcome
+897,917,440674,Gout,outcome
+897,917,4078925,Pulmonary edema,outcome
+897,917,378416,Retinal disorder,outcome
+897,917,138455,Stomatitis,outcome
+892,917,376707,Acute conjunctivitis,outcome
+892,917,378424,Astigmatism,outcome
+892,917,381581,Chalazion,outcome
+892,917,134438,Contact dermatitis,outcome
+892,917,201606,Crohn's disease,outcome
+892,917,260134,Croup,outcome
+892,917,196456,Gallstone,outcome
+892,917,4166231,Genetic predisposition,outcome
+892,917,441788,Human papilloma virus infection,outcome
+892,917,140480,Impetigo,outcome
+892,917,139099,Ingrowing nail,outcome
+892,917,75576,Irritable bowel syndrome,outcome
+892,917,4134455,Mononeuropathy,outcome
+892,917,4215978,Onychomycosis,outcome
+892,917,140648,Onychomycosis due to dermatophyte,outcome
+892,917,4091513,Passing flatus,outcome
+892,917,4112731,Polyp of intestine,outcome
+892,917,4234533,Tonsillitis,outcome
+892,917,81893,Ulcerative colitis,outcome
+892,917,140641,Verruca vulgaris,outcome
+892,917,260427,Common cold,outcome
+892,917,379019,Conjunctivitis,outcome
+892,917,4332246,Aneurysm,outcome
+892,917,432585,Blood coagulation disorder,outcome
+892,917,195588,Cystitis,outcome
+892,917,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+892,917,4010658,Difficulty passing urine,outcome
+892,917,440674,Gout,outcome
+892,917,4078925,Pulmonary edema,outcome
+892,917,378416,Retinal disorder,outcome
+892,917,138455,Stomatitis,outcome
+902,917,376707,Acute conjunctivitis,outcome
+902,917,378424,Astigmatism,outcome
+902,917,381581,Chalazion,outcome
+902,917,134438,Contact dermatitis,outcome
+902,917,201606,Crohn's disease,outcome
+902,917,260134,Croup,outcome
+902,917,196456,Gallstone,outcome
+902,917,4166231,Genetic predisposition,outcome
+902,917,441788,Human papilloma virus infection,outcome
+902,917,140480,Impetigo,outcome
+902,917,139099,Ingrowing nail,outcome
+902,917,75576,Irritable bowel syndrome,outcome
+902,917,4134455,Mononeuropathy,outcome
+902,917,4215978,Onychomycosis,outcome
+902,917,140648,Onychomycosis due to dermatophyte,outcome
+902,917,4091513,Passing flatus,outcome
+902,917,4112731,Polyp of intestine,outcome
+902,917,4234533,Tonsillitis,outcome
+902,917,81893,Ulcerative colitis,outcome
+902,917,140641,Verruca vulgaris,outcome
+902,917,260427,Common cold,outcome
+902,917,379019,Conjunctivitis,outcome
+902,917,4332246,Aneurysm,outcome
+902,917,432585,Blood coagulation disorder,outcome
+902,917,195588,Cystitis,outcome
+902,917,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+902,917,4010658,Difficulty passing urine,outcome
+902,917,440674,Gout,outcome
+902,917,4078925,Pulmonary edema,outcome
+902,917,378416,Retinal disorder,outcome
+902,917,138455,Stomatitis,outcome
+897,892,376707,Acute conjunctivitis,outcome
+897,892,378424,Astigmatism,outcome
+897,892,381581,Chalazion,outcome
+897,892,134438,Contact dermatitis,outcome
+897,892,201606,Crohn's disease,outcome
+897,892,260134,Croup,outcome
+897,892,196456,Gallstone,outcome
+897,892,4166231,Genetic predisposition,outcome
+897,892,441788,Human papilloma virus infection,outcome
+897,892,140480,Impetigo,outcome
+897,892,139099,Ingrowing nail,outcome
+897,892,75576,Irritable bowel syndrome,outcome
+897,892,4134455,Mononeuropathy,outcome
+897,892,4215978,Onychomycosis,outcome
+897,892,140648,Onychomycosis due to dermatophyte,outcome
+897,892,4091513,Passing flatus,outcome
+897,892,4112731,Polyp of intestine,outcome
+897,892,4234533,Tonsillitis,outcome
+897,892,81893,Ulcerative colitis,outcome
+897,892,140641,Verruca vulgaris,outcome
+897,892,260427,Common cold,outcome
+897,892,379019,Conjunctivitis,outcome
+897,892,4332246,Aneurysm,outcome
+897,892,432585,Blood coagulation disorder,outcome
+897,892,195588,Cystitis,outcome
+897,892,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+897,892,4010658,Difficulty passing urine,outcome
+897,892,440674,Gout,outcome
+897,892,4078925,Pulmonary edema,outcome
+897,892,378416,Retinal disorder,outcome
+897,892,138455,Stomatitis,outcome
+902,897,376707,Acute conjunctivitis,outcome
+902,897,378424,Astigmatism,outcome
+902,897,381581,Chalazion,outcome
+902,897,134438,Contact dermatitis,outcome
+902,897,201606,Crohn's disease,outcome
+902,897,260134,Croup,outcome
+902,897,196456,Gallstone,outcome
+902,897,4166231,Genetic predisposition,outcome
+902,897,441788,Human papilloma virus infection,outcome
+902,897,140480,Impetigo,outcome
+902,897,139099,Ingrowing nail,outcome
+902,897,75576,Irritable bowel syndrome,outcome
+902,897,4134455,Mononeuropathy,outcome
+902,897,4215978,Onychomycosis,outcome
+902,897,140648,Onychomycosis due to dermatophyte,outcome
+902,897,4091513,Passing flatus,outcome
+902,897,4112731,Polyp of intestine,outcome
+902,897,4234533,Tonsillitis,outcome
+902,897,81893,Ulcerative colitis,outcome
+902,897,140641,Verruca vulgaris,outcome
+902,897,260427,Common cold,outcome
+902,897,379019,Conjunctivitis,outcome
+902,897,4332246,Aneurysm,outcome
+902,897,432585,Blood coagulation disorder,outcome
+902,897,195588,Cystitis,outcome
+902,897,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+902,897,4010658,Difficulty passing urine,outcome
+902,897,440674,Gout,outcome
+902,897,4078925,Pulmonary edema,outcome
+902,897,378416,Retinal disorder,outcome
+902,897,138455,Stomatitis,outcome
+902,892,376707,Acute conjunctivitis,outcome
+902,892,378424,Astigmatism,outcome
+902,892,381581,Chalazion,outcome
+902,892,134438,Contact dermatitis,outcome
+902,892,201606,Crohn's disease,outcome
+902,892,260134,Croup,outcome
+902,892,196456,Gallstone,outcome
+902,892,4166231,Genetic predisposition,outcome
+902,892,441788,Human papilloma virus infection,outcome
+902,892,140480,Impetigo,outcome
+902,892,139099,Ingrowing nail,outcome
+902,892,75576,Irritable bowel syndrome,outcome
+902,892,4134455,Mononeuropathy,outcome
+902,892,4215978,Onychomycosis,outcome
+902,892,140648,Onychomycosis due to dermatophyte,outcome
+902,892,4091513,Passing flatus,outcome
+902,892,4112731,Polyp of intestine,outcome
+902,892,4234533,Tonsillitis,outcome
+902,892,81893,Ulcerative colitis,outcome
+902,892,140641,Verruca vulgaris,outcome
+902,892,260427,Common cold,outcome
+902,892,379019,Conjunctivitis,outcome
+902,892,4332246,Aneurysm,outcome
+902,892,432585,Blood coagulation disorder,outcome
+902,892,195588,Cystitis,outcome
+902,892,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+902,892,4010658,Difficulty passing urine,outcome
+902,892,440674,Gout,outcome
+902,892,4078925,Pulmonary edema,outcome
+902,892,378416,Retinal disorder,outcome
+902,892,138455,Stomatitis,outcome
+857,867,376707,Acute conjunctivitis,outcome
+857,867,378424,Astigmatism,outcome
+857,867,381581,Chalazion,outcome
+857,867,134438,Contact dermatitis,outcome
+857,867,201606,Crohn's disease,outcome
+857,867,260134,Croup,outcome
+857,867,196456,Gallstone,outcome
+857,867,4166231,Genetic predisposition,outcome
+857,867,441788,Human papilloma virus infection,outcome
+857,867,140480,Impetigo,outcome
+857,867,139099,Ingrowing nail,outcome
+857,867,75576,Irritable bowel syndrome,outcome
+857,867,4134455,Mononeuropathy,outcome
+857,867,4215978,Onychomycosis,outcome
+857,867,140648,Onychomycosis due to dermatophyte,outcome
+857,867,4091513,Passing flatus,outcome
+857,867,4112731,Polyp of intestine,outcome
+857,867,4234533,Tonsillitis,outcome
+857,867,81893,Ulcerative colitis,outcome
+857,867,140641,Verruca vulgaris,outcome
+857,867,260427,Common cold,outcome
+857,867,379019,Conjunctivitis,outcome
+857,867,4332246,Aneurysm,outcome
+857,867,432585,Blood coagulation disorder,outcome
+857,867,195588,Cystitis,outcome
+857,867,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+857,867,4010658,Difficulty passing urine,outcome
+857,867,440674,Gout,outcome
+857,867,4078925,Pulmonary edema,outcome
+857,867,378416,Retinal disorder,outcome
+857,867,138455,Stomatitis,outcome
+877,857,376707,Acute conjunctivitis,outcome
+877,857,378424,Astigmatism,outcome
+877,857,381581,Chalazion,outcome
+877,857,134438,Contact dermatitis,outcome
+877,857,201606,Crohn's disease,outcome
+877,857,260134,Croup,outcome
+877,857,196456,Gallstone,outcome
+877,857,4166231,Genetic predisposition,outcome
+877,857,441788,Human papilloma virus infection,outcome
+877,857,140480,Impetigo,outcome
+877,857,139099,Ingrowing nail,outcome
+877,857,75576,Irritable bowel syndrome,outcome
+877,857,4134455,Mononeuropathy,outcome
+877,857,4215978,Onychomycosis,outcome
+877,857,140648,Onychomycosis due to dermatophyte,outcome
+877,857,4091513,Passing flatus,outcome
+877,857,4112731,Polyp of intestine,outcome
+877,857,4234533,Tonsillitis,outcome
+877,857,81893,Ulcerative colitis,outcome
+877,857,140641,Verruca vulgaris,outcome
+877,857,260427,Common cold,outcome
+877,857,379019,Conjunctivitis,outcome
+877,857,4332246,Aneurysm,outcome
+877,857,432585,Blood coagulation disorder,outcome
+877,857,195588,Cystitis,outcome
+877,857,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+877,857,4010658,Difficulty passing urine,outcome
+877,857,440674,Gout,outcome
+877,857,4078925,Pulmonary edema,outcome
+877,857,378416,Retinal disorder,outcome
+877,857,138455,Stomatitis,outcome
+872,857,376707,Acute conjunctivitis,outcome
+872,857,378424,Astigmatism,outcome
+872,857,381581,Chalazion,outcome
+872,857,134438,Contact dermatitis,outcome
+872,857,201606,Crohn's disease,outcome
+872,857,260134,Croup,outcome
+872,857,196456,Gallstone,outcome
+872,857,4166231,Genetic predisposition,outcome
+872,857,441788,Human papilloma virus infection,outcome
+872,857,140480,Impetigo,outcome
+872,857,139099,Ingrowing nail,outcome
+872,857,75576,Irritable bowel syndrome,outcome
+872,857,4134455,Mononeuropathy,outcome
+872,857,4215978,Onychomycosis,outcome
+872,857,140648,Onychomycosis due to dermatophyte,outcome
+872,857,4091513,Passing flatus,outcome
+872,857,4112731,Polyp of intestine,outcome
+872,857,4234533,Tonsillitis,outcome
+872,857,81893,Ulcerative colitis,outcome
+872,857,140641,Verruca vulgaris,outcome
+872,857,260427,Common cold,outcome
+872,857,379019,Conjunctivitis,outcome
+872,857,4332246,Aneurysm,outcome
+872,857,432585,Blood coagulation disorder,outcome
+872,857,195588,Cystitis,outcome
+872,857,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+872,857,4010658,Difficulty passing urine,outcome
+872,857,440674,Gout,outcome
+872,857,4078925,Pulmonary edema,outcome
+872,857,378416,Retinal disorder,outcome
+872,857,138455,Stomatitis,outcome
+882,857,376707,Acute conjunctivitis,outcome
+882,857,378424,Astigmatism,outcome
+882,857,381581,Chalazion,outcome
+882,857,134438,Contact dermatitis,outcome
+882,857,201606,Crohn's disease,outcome
+882,857,260134,Croup,outcome
+882,857,196456,Gallstone,outcome
+882,857,4166231,Genetic predisposition,outcome
+882,857,441788,Human papilloma virus infection,outcome
+882,857,140480,Impetigo,outcome
+882,857,139099,Ingrowing nail,outcome
+882,857,75576,Irritable bowel syndrome,outcome
+882,857,4134455,Mononeuropathy,outcome
+882,857,4215978,Onychomycosis,outcome
+882,857,140648,Onychomycosis due to dermatophyte,outcome
+882,857,4091513,Passing flatus,outcome
+882,857,4112731,Polyp of intestine,outcome
+882,857,4234533,Tonsillitis,outcome
+882,857,81893,Ulcerative colitis,outcome
+882,857,140641,Verruca vulgaris,outcome
+882,857,260427,Common cold,outcome
+882,857,379019,Conjunctivitis,outcome
+882,857,4332246,Aneurysm,outcome
+882,857,432585,Blood coagulation disorder,outcome
+882,857,195588,Cystitis,outcome
+882,857,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+882,857,4010658,Difficulty passing urine,outcome
+882,857,440674,Gout,outcome
+882,857,4078925,Pulmonary edema,outcome
+882,857,378416,Retinal disorder,outcome
+882,857,138455,Stomatitis,outcome
+912,887,376707,Acute conjunctivitis,outcome
+912,887,378424,Astigmatism,outcome
+912,887,381581,Chalazion,outcome
+912,887,134438,Contact dermatitis,outcome
+912,887,201606,Crohn's disease,outcome
+912,887,260134,Croup,outcome
+912,887,196456,Gallstone,outcome
+912,887,4166231,Genetic predisposition,outcome
+912,887,441788,Human papilloma virus infection,outcome
+912,887,140480,Impetigo,outcome
+912,887,139099,Ingrowing nail,outcome
+912,887,75576,Irritable bowel syndrome,outcome
+912,887,4134455,Mononeuropathy,outcome
+912,887,4215978,Onychomycosis,outcome
+912,887,140648,Onychomycosis due to dermatophyte,outcome
+912,887,4091513,Passing flatus,outcome
+912,887,4112731,Polyp of intestine,outcome
+912,887,4234533,Tonsillitis,outcome
+912,887,81893,Ulcerative colitis,outcome
+912,887,140641,Verruca vulgaris,outcome
+912,887,260427,Common cold,outcome
+912,887,379019,Conjunctivitis,outcome
+912,887,4332246,Aneurysm,outcome
+912,887,432585,Blood coagulation disorder,outcome
+912,887,195588,Cystitis,outcome
+912,887,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+912,887,4010658,Difficulty passing urine,outcome
+912,887,440674,Gout,outcome
+912,887,4078925,Pulmonary edema,outcome
+912,887,378416,Retinal disorder,outcome
+912,887,138455,Stomatitis,outcome
+897,912,376707,Acute conjunctivitis,outcome
+897,912,378424,Astigmatism,outcome
+897,912,381581,Chalazion,outcome
+897,912,134438,Contact dermatitis,outcome
+897,912,201606,Crohn's disease,outcome
+897,912,260134,Croup,outcome
+897,912,196456,Gallstone,outcome
+897,912,4166231,Genetic predisposition,outcome
+897,912,441788,Human papilloma virus infection,outcome
+897,912,140480,Impetigo,outcome
+897,912,139099,Ingrowing nail,outcome
+897,912,75576,Irritable bowel syndrome,outcome
+897,912,4134455,Mononeuropathy,outcome
+897,912,4215978,Onychomycosis,outcome
+897,912,140648,Onychomycosis due to dermatophyte,outcome
+897,912,4091513,Passing flatus,outcome
+897,912,4112731,Polyp of intestine,outcome
+897,912,4234533,Tonsillitis,outcome
+897,912,81893,Ulcerative colitis,outcome
+897,912,140641,Verruca vulgaris,outcome
+897,912,260427,Common cold,outcome
+897,912,379019,Conjunctivitis,outcome
+897,912,4332246,Aneurysm,outcome
+897,912,432585,Blood coagulation disorder,outcome
+897,912,195588,Cystitis,outcome
+897,912,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+897,912,4010658,Difficulty passing urine,outcome
+897,912,440674,Gout,outcome
+897,912,4078925,Pulmonary edema,outcome
+897,912,378416,Retinal disorder,outcome
+897,912,138455,Stomatitis,outcome
+902,912,376707,Acute conjunctivitis,outcome
+902,912,378424,Astigmatism,outcome
+902,912,381581,Chalazion,outcome
+902,912,134438,Contact dermatitis,outcome
+902,912,201606,Crohn's disease,outcome
+902,912,260134,Croup,outcome
+902,912,196456,Gallstone,outcome
+902,912,4166231,Genetic predisposition,outcome
+902,912,441788,Human papilloma virus infection,outcome
+902,912,140480,Impetigo,outcome
+902,912,139099,Ingrowing nail,outcome
+902,912,75576,Irritable bowel syndrome,outcome
+902,912,4134455,Mononeuropathy,outcome
+902,912,4215978,Onychomycosis,outcome
+902,912,140648,Onychomycosis due to dermatophyte,outcome
+902,912,4091513,Passing flatus,outcome
+902,912,4112731,Polyp of intestine,outcome
+902,912,4234533,Tonsillitis,outcome
+902,912,81893,Ulcerative colitis,outcome
+902,912,140641,Verruca vulgaris,outcome
+902,912,260427,Common cold,outcome
+902,912,379019,Conjunctivitis,outcome
+902,912,4332246,Aneurysm,outcome
+902,912,432585,Blood coagulation disorder,outcome
+902,912,195588,Cystitis,outcome
+902,912,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+902,912,4010658,Difficulty passing urine,outcome
+902,912,440674,Gout,outcome
+902,912,4078925,Pulmonary edema,outcome
+902,912,378416,Retinal disorder,outcome
+902,912,138455,Stomatitis,outcome
+892,912,376707,Acute conjunctivitis,outcome
+892,912,378424,Astigmatism,outcome
+892,912,381581,Chalazion,outcome
+892,912,134438,Contact dermatitis,outcome
+892,912,201606,Crohn's disease,outcome
+892,912,260134,Croup,outcome
+892,912,196456,Gallstone,outcome
+892,912,4166231,Genetic predisposition,outcome
+892,912,441788,Human papilloma virus infection,outcome
+892,912,140480,Impetigo,outcome
+892,912,139099,Ingrowing nail,outcome
+892,912,75576,Irritable bowel syndrome,outcome
+892,912,4134455,Mononeuropathy,outcome
+892,912,4215978,Onychomycosis,outcome
+892,912,140648,Onychomycosis due to dermatophyte,outcome
+892,912,4091513,Passing flatus,outcome
+892,912,4112731,Polyp of intestine,outcome
+892,912,4234533,Tonsillitis,outcome
+892,912,81893,Ulcerative colitis,outcome
+892,912,140641,Verruca vulgaris,outcome
+892,912,260427,Common cold,outcome
+892,912,379019,Conjunctivitis,outcome
+892,912,4332246,Aneurysm,outcome
+892,912,432585,Blood coagulation disorder,outcome
+892,912,195588,Cystitis,outcome
+892,912,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+892,912,4010658,Difficulty passing urine,outcome
+892,912,440674,Gout,outcome
+892,912,4078925,Pulmonary edema,outcome
+892,912,378416,Retinal disorder,outcome
+892,912,138455,Stomatitis,outcome
+887,912,376707,Acute conjunctivitis,outcome
+887,912,378424,Astigmatism,outcome
+887,912,381581,Chalazion,outcome
+887,912,134438,Contact dermatitis,outcome
+887,912,201606,Crohn's disease,outcome
+887,912,260134,Croup,outcome
+887,912,196456,Gallstone,outcome
+887,912,4166231,Genetic predisposition,outcome
+887,912,441788,Human papilloma virus infection,outcome
+887,912,140480,Impetigo,outcome
+887,912,139099,Ingrowing nail,outcome
+887,912,75576,Irritable bowel syndrome,outcome
+887,912,4134455,Mononeuropathy,outcome
+887,912,4215978,Onychomycosis,outcome
+887,912,140648,Onychomycosis due to dermatophyte,outcome
+887,912,4091513,Passing flatus,outcome
+887,912,4112731,Polyp of intestine,outcome
+887,912,4234533,Tonsillitis,outcome
+887,912,81893,Ulcerative colitis,outcome
+887,912,140641,Verruca vulgaris,outcome
+887,912,260427,Common cold,outcome
+887,912,379019,Conjunctivitis,outcome
+887,912,4332246,Aneurysm,outcome
+887,912,432585,Blood coagulation disorder,outcome
+887,912,195588,Cystitis,outcome
+887,912,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+887,912,4010658,Difficulty passing urine,outcome
+887,912,440674,Gout,outcome
+887,912,4078925,Pulmonary edema,outcome
+887,912,378416,Retinal disorder,outcome
+887,912,138455,Stomatitis,outcome
+887,917,376707,Acute conjunctivitis,outcome
+887,917,378424,Astigmatism,outcome
+887,917,381581,Chalazion,outcome
+887,917,134438,Contact dermatitis,outcome
+887,917,201606,Crohn's disease,outcome
+887,917,260134,Croup,outcome
+887,917,196456,Gallstone,outcome
+887,917,4166231,Genetic predisposition,outcome
+887,917,441788,Human papilloma virus infection,outcome
+887,917,140480,Impetigo,outcome
+887,917,139099,Ingrowing nail,outcome
+887,917,75576,Irritable bowel syndrome,outcome
+887,917,4134455,Mononeuropathy,outcome
+887,917,4215978,Onychomycosis,outcome
+887,917,140648,Onychomycosis due to dermatophyte,outcome
+887,917,4091513,Passing flatus,outcome
+887,917,4112731,Polyp of intestine,outcome
+887,917,4234533,Tonsillitis,outcome
+887,917,81893,Ulcerative colitis,outcome
+887,917,140641,Verruca vulgaris,outcome
+887,917,260427,Common cold,outcome
+887,917,379019,Conjunctivitis,outcome
+887,917,4332246,Aneurysm,outcome
+887,917,432585,Blood coagulation disorder,outcome
+887,917,195588,Cystitis,outcome
+887,917,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+887,917,4010658,Difficulty passing urine,outcome
+887,917,440674,Gout,outcome
+887,917,4078925,Pulmonary edema,outcome
+887,917,378416,Retinal disorder,outcome
+887,917,138455,Stomatitis,outcome
+867,857,376707,Acute conjunctivitis,outcome
+867,857,378424,Astigmatism,outcome
+867,857,381581,Chalazion,outcome
+867,857,134438,Contact dermatitis,outcome
+867,857,201606,Crohn's disease,outcome
+867,857,260134,Croup,outcome
+867,857,196456,Gallstone,outcome
+867,857,4166231,Genetic predisposition,outcome
+867,857,441788,Human papilloma virus infection,outcome
+867,857,140480,Impetigo,outcome
+867,857,139099,Ingrowing nail,outcome
+867,857,75576,Irritable bowel syndrome,outcome
+867,857,4134455,Mononeuropathy,outcome
+867,857,4215978,Onychomycosis,outcome
+867,857,140648,Onychomycosis due to dermatophyte,outcome
+867,857,4091513,Passing flatus,outcome
+867,857,4112731,Polyp of intestine,outcome
+867,857,4234533,Tonsillitis,outcome
+867,857,81893,Ulcerative colitis,outcome
+867,857,140641,Verruca vulgaris,outcome
+867,857,260427,Common cold,outcome
+867,857,379019,Conjunctivitis,outcome
+867,857,4332246,Aneurysm,outcome
+867,857,432585,Blood coagulation disorder,outcome
+867,857,195588,Cystitis,outcome
+867,857,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+867,857,4010658,Difficulty passing urine,outcome
+867,857,440674,Gout,outcome
+867,857,4078925,Pulmonary edema,outcome
+867,857,378416,Retinal disorder,outcome
+867,857,138455,Stomatitis,outcome
+867,862,376707,Acute conjunctivitis,outcome
+867,862,378424,Astigmatism,outcome
+867,862,381581,Chalazion,outcome
+867,862,134438,Contact dermatitis,outcome
+867,862,201606,Crohn's disease,outcome
+867,862,260134,Croup,outcome
+867,862,196456,Gallstone,outcome
+867,862,4166231,Genetic predisposition,outcome
+867,862,441788,Human papilloma virus infection,outcome
+867,862,140480,Impetigo,outcome
+867,862,139099,Ingrowing nail,outcome
+867,862,75576,Irritable bowel syndrome,outcome
+867,862,4134455,Mononeuropathy,outcome
+867,862,4215978,Onychomycosis,outcome
+867,862,140648,Onychomycosis due to dermatophyte,outcome
+867,862,4091513,Passing flatus,outcome
+867,862,4112731,Polyp of intestine,outcome
+867,862,4234533,Tonsillitis,outcome
+867,862,81893,Ulcerative colitis,outcome
+867,862,140641,Verruca vulgaris,outcome
+867,862,260427,Common cold,outcome
+867,862,379019,Conjunctivitis,outcome
+867,862,4332246,Aneurysm,outcome
+867,862,432585,Blood coagulation disorder,outcome
+867,862,195588,Cystitis,outcome
+867,862,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+867,862,4010658,Difficulty passing urine,outcome
+867,862,440674,Gout,outcome
+867,862,4078925,Pulmonary edema,outcome
+867,862,378416,Retinal disorder,outcome
+867,862,138455,Stomatitis,outcome
+912,1039,376707,Acute conjunctivitis,outcome
+912,1039,378424,Astigmatism,outcome
+912,1039,381581,Chalazion,outcome
+912,1039,134438,Contact dermatitis,outcome
+912,1039,201606,Crohn's disease,outcome
+912,1039,260134,Croup,outcome
+912,1039,196456,Gallstone,outcome
+912,1039,4166231,Genetic predisposition,outcome
+912,1039,441788,Human papilloma virus infection,outcome
+912,1039,140480,Impetigo,outcome
+912,1039,139099,Ingrowing nail,outcome
+912,1039,75576,Irritable bowel syndrome,outcome
+912,1039,4134455,Mononeuropathy,outcome
+912,1039,4215978,Onychomycosis,outcome
+912,1039,140648,Onychomycosis due to dermatophyte,outcome
+912,1039,4091513,Passing flatus,outcome
+912,1039,4112731,Polyp of intestine,outcome
+912,1039,4234533,Tonsillitis,outcome
+912,1039,81893,Ulcerative colitis,outcome
+912,1039,140641,Verruca vulgaris,outcome
+912,1039,260427,Common cold,outcome
+912,1039,379019,Conjunctivitis,outcome
+912,1039,4332246,Aneurysm,outcome
+912,1039,432585,Blood coagulation disorder,outcome
+912,1039,195588,Cystitis,outcome
+912,1039,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+912,1039,4010658,Difficulty passing urine,outcome
+912,1039,440674,Gout,outcome
+912,1039,4078925,Pulmonary edema,outcome
+912,1039,378416,Retinal disorder,outcome
+912,1039,138455,Stomatitis,outcome
+857,1041,376707,Acute conjunctivitis,outcome
+857,1041,378424,Astigmatism,outcome
+857,1041,381581,Chalazion,outcome
+857,1041,134438,Contact dermatitis,outcome
+857,1041,201606,Crohn's disease,outcome
+857,1041,260134,Croup,outcome
+857,1041,196456,Gallstone,outcome
+857,1041,4166231,Genetic predisposition,outcome
+857,1041,441788,Human papilloma virus infection,outcome
+857,1041,140480,Impetigo,outcome
+857,1041,139099,Ingrowing nail,outcome
+857,1041,75576,Irritable bowel syndrome,outcome
+857,1041,4134455,Mononeuropathy,outcome
+857,1041,4215978,Onychomycosis,outcome
+857,1041,140648,Onychomycosis due to dermatophyte,outcome
+857,1041,4091513,Passing flatus,outcome
+857,1041,4112731,Polyp of intestine,outcome
+857,1041,4234533,Tonsillitis,outcome
+857,1041,81893,Ulcerative colitis,outcome
+857,1041,140641,Verruca vulgaris,outcome
+857,1041,260427,Common cold,outcome
+857,1041,379019,Conjunctivitis,outcome
+857,1041,4332246,Aneurysm,outcome
+857,1041,432585,Blood coagulation disorder,outcome
+857,1041,195588,Cystitis,outcome
+857,1041,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+857,1041,4010658,Difficulty passing urine,outcome
+857,1041,440674,Gout,outcome
+857,1041,4078925,Pulmonary edema,outcome
+857,1041,378416,Retinal disorder,outcome
+857,1041,138455,Stomatitis,outcome
+1039,912,376707,Acute conjunctivitis,outcome
+1039,912,378424,Astigmatism,outcome
+1039,912,381581,Chalazion,outcome
+1039,912,134438,Contact dermatitis,outcome
+1039,912,201606,Crohn's disease,outcome
+1039,912,260134,Croup,outcome
+1039,912,196456,Gallstone,outcome
+1039,912,4166231,Genetic predisposition,outcome
+1039,912,441788,Human papilloma virus infection,outcome
+1039,912,140480,Impetigo,outcome
+1039,912,139099,Ingrowing nail,outcome
+1039,912,75576,Irritable bowel syndrome,outcome
+1039,912,4134455,Mononeuropathy,outcome
+1039,912,4215978,Onychomycosis,outcome
+1039,912,140648,Onychomycosis due to dermatophyte,outcome
+1039,912,4091513,Passing flatus,outcome
+1039,912,4112731,Polyp of intestine,outcome
+1039,912,4234533,Tonsillitis,outcome
+1039,912,81893,Ulcerative colitis,outcome
+1039,912,140641,Verruca vulgaris,outcome
+1039,912,260427,Common cold,outcome
+1039,912,379019,Conjunctivitis,outcome
+1039,912,4332246,Aneurysm,outcome
+1039,912,432585,Blood coagulation disorder,outcome
+1039,912,195588,Cystitis,outcome
+1039,912,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1039,912,4010658,Difficulty passing urine,outcome
+1039,912,440674,Gout,outcome
+1039,912,4078925,Pulmonary edema,outcome
+1039,912,378416,Retinal disorder,outcome
+1039,912,138455,Stomatitis,outcome
+1043,912,376707,Acute conjunctivitis,outcome
+1043,912,378424,Astigmatism,outcome
+1043,912,381581,Chalazion,outcome
+1043,912,134438,Contact dermatitis,outcome
+1043,912,201606,Crohn's disease,outcome
+1043,912,260134,Croup,outcome
+1043,912,196456,Gallstone,outcome
+1043,912,4166231,Genetic predisposition,outcome
+1043,912,441788,Human papilloma virus infection,outcome
+1043,912,140480,Impetigo,outcome
+1043,912,139099,Ingrowing nail,outcome
+1043,912,75576,Irritable bowel syndrome,outcome
+1043,912,4134455,Mononeuropathy,outcome
+1043,912,4215978,Onychomycosis,outcome
+1043,912,140648,Onychomycosis due to dermatophyte,outcome
+1043,912,4091513,Passing flatus,outcome
+1043,912,4112731,Polyp of intestine,outcome
+1043,912,4234533,Tonsillitis,outcome
+1043,912,81893,Ulcerative colitis,outcome
+1043,912,140641,Verruca vulgaris,outcome
+1043,912,260427,Common cold,outcome
+1043,912,379019,Conjunctivitis,outcome
+1043,912,4332246,Aneurysm,outcome
+1043,912,432585,Blood coagulation disorder,outcome
+1043,912,195588,Cystitis,outcome
+1043,912,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1043,912,4010658,Difficulty passing urine,outcome
+1043,912,440674,Gout,outcome
+1043,912,4078925,Pulmonary edema,outcome
+1043,912,378416,Retinal disorder,outcome
+1043,912,138455,Stomatitis,outcome
+1042,912,376707,Acute conjunctivitis,outcome
+1042,912,378424,Astigmatism,outcome
+1042,912,381581,Chalazion,outcome
+1042,912,134438,Contact dermatitis,outcome
+1042,912,201606,Crohn's disease,outcome
+1042,912,260134,Croup,outcome
+1042,912,196456,Gallstone,outcome
+1042,912,4166231,Genetic predisposition,outcome
+1042,912,441788,Human papilloma virus infection,outcome
+1042,912,140480,Impetigo,outcome
+1042,912,139099,Ingrowing nail,outcome
+1042,912,75576,Irritable bowel syndrome,outcome
+1042,912,4134455,Mononeuropathy,outcome
+1042,912,4215978,Onychomycosis,outcome
+1042,912,140648,Onychomycosis due to dermatophyte,outcome
+1042,912,4091513,Passing flatus,outcome
+1042,912,4112731,Polyp of intestine,outcome
+1042,912,4234533,Tonsillitis,outcome
+1042,912,81893,Ulcerative colitis,outcome
+1042,912,140641,Verruca vulgaris,outcome
+1042,912,260427,Common cold,outcome
+1042,912,379019,Conjunctivitis,outcome
+1042,912,4332246,Aneurysm,outcome
+1042,912,432585,Blood coagulation disorder,outcome
+1042,912,195588,Cystitis,outcome
+1042,912,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1042,912,4010658,Difficulty passing urine,outcome
+1042,912,440674,Gout,outcome
+1042,912,4078925,Pulmonary edema,outcome
+1042,912,378416,Retinal disorder,outcome
+1042,912,138455,Stomatitis,outcome
+1044,912,376707,Acute conjunctivitis,outcome
+1044,912,378424,Astigmatism,outcome
+1044,912,381581,Chalazion,outcome
+1044,912,134438,Contact dermatitis,outcome
+1044,912,201606,Crohn's disease,outcome
+1044,912,260134,Croup,outcome
+1044,912,196456,Gallstone,outcome
+1044,912,4166231,Genetic predisposition,outcome
+1044,912,441788,Human papilloma virus infection,outcome
+1044,912,140480,Impetigo,outcome
+1044,912,139099,Ingrowing nail,outcome
+1044,912,75576,Irritable bowel syndrome,outcome
+1044,912,4134455,Mononeuropathy,outcome
+1044,912,4215978,Onychomycosis,outcome
+1044,912,140648,Onychomycosis due to dermatophyte,outcome
+1044,912,4091513,Passing flatus,outcome
+1044,912,4112731,Polyp of intestine,outcome
+1044,912,4234533,Tonsillitis,outcome
+1044,912,81893,Ulcerative colitis,outcome
+1044,912,140641,Verruca vulgaris,outcome
+1044,912,260427,Common cold,outcome
+1044,912,379019,Conjunctivitis,outcome
+1044,912,4332246,Aneurysm,outcome
+1044,912,432585,Blood coagulation disorder,outcome
+1044,912,195588,Cystitis,outcome
+1044,912,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1044,912,4010658,Difficulty passing urine,outcome
+1044,912,440674,Gout,outcome
+1044,912,4078925,Pulmonary edema,outcome
+1044,912,378416,Retinal disorder,outcome
+1044,912,138455,Stomatitis,outcome
+1042,1043,376707,Acute conjunctivitis,outcome
+1042,1043,378424,Astigmatism,outcome
+1042,1043,381581,Chalazion,outcome
+1042,1043,134438,Contact dermatitis,outcome
+1042,1043,201606,Crohn's disease,outcome
+1042,1043,260134,Croup,outcome
+1042,1043,196456,Gallstone,outcome
+1042,1043,4166231,Genetic predisposition,outcome
+1042,1043,441788,Human papilloma virus infection,outcome
+1042,1043,140480,Impetigo,outcome
+1042,1043,139099,Ingrowing nail,outcome
+1042,1043,75576,Irritable bowel syndrome,outcome
+1042,1043,4134455,Mononeuropathy,outcome
+1042,1043,4215978,Onychomycosis,outcome
+1042,1043,140648,Onychomycosis due to dermatophyte,outcome
+1042,1043,4091513,Passing flatus,outcome
+1042,1043,4112731,Polyp of intestine,outcome
+1042,1043,4234533,Tonsillitis,outcome
+1042,1043,81893,Ulcerative colitis,outcome
+1042,1043,140641,Verruca vulgaris,outcome
+1042,1043,260427,Common cold,outcome
+1042,1043,379019,Conjunctivitis,outcome
+1042,1043,4332246,Aneurysm,outcome
+1042,1043,432585,Blood coagulation disorder,outcome
+1042,1043,195588,Cystitis,outcome
+1042,1043,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1042,1043,4010658,Difficulty passing urine,outcome
+1042,1043,440674,Gout,outcome
+1042,1043,4078925,Pulmonary edema,outcome
+1042,1043,378416,Retinal disorder,outcome
+1042,1043,138455,Stomatitis,outcome
+1044,1042,376707,Acute conjunctivitis,outcome
+1044,1042,378424,Astigmatism,outcome
+1044,1042,381581,Chalazion,outcome
+1044,1042,134438,Contact dermatitis,outcome
+1044,1042,201606,Crohn's disease,outcome
+1044,1042,260134,Croup,outcome
+1044,1042,196456,Gallstone,outcome
+1044,1042,4166231,Genetic predisposition,outcome
+1044,1042,441788,Human papilloma virus infection,outcome
+1044,1042,140480,Impetigo,outcome
+1044,1042,139099,Ingrowing nail,outcome
+1044,1042,75576,Irritable bowel syndrome,outcome
+1044,1042,4134455,Mononeuropathy,outcome
+1044,1042,4215978,Onychomycosis,outcome
+1044,1042,140648,Onychomycosis due to dermatophyte,outcome
+1044,1042,4091513,Passing flatus,outcome
+1044,1042,4112731,Polyp of intestine,outcome
+1044,1042,4234533,Tonsillitis,outcome
+1044,1042,81893,Ulcerative colitis,outcome
+1044,1042,140641,Verruca vulgaris,outcome
+1044,1042,260427,Common cold,outcome
+1044,1042,379019,Conjunctivitis,outcome
+1044,1042,4332246,Aneurysm,outcome
+1044,1042,432585,Blood coagulation disorder,outcome
+1044,1042,195588,Cystitis,outcome
+1044,1042,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1044,1042,4010658,Difficulty passing urine,outcome
+1044,1042,440674,Gout,outcome
+1044,1042,4078925,Pulmonary edema,outcome
+1044,1042,378416,Retinal disorder,outcome
+1044,1042,138455,Stomatitis,outcome
+1044,1043,376707,Acute conjunctivitis,outcome
+1044,1043,378424,Astigmatism,outcome
+1044,1043,381581,Chalazion,outcome
+1044,1043,134438,Contact dermatitis,outcome
+1044,1043,201606,Crohn's disease,outcome
+1044,1043,260134,Croup,outcome
+1044,1043,196456,Gallstone,outcome
+1044,1043,4166231,Genetic predisposition,outcome
+1044,1043,441788,Human papilloma virus infection,outcome
+1044,1043,140480,Impetigo,outcome
+1044,1043,139099,Ingrowing nail,outcome
+1044,1043,75576,Irritable bowel syndrome,outcome
+1044,1043,4134455,Mononeuropathy,outcome
+1044,1043,4215978,Onychomycosis,outcome
+1044,1043,140648,Onychomycosis due to dermatophyte,outcome
+1044,1043,4091513,Passing flatus,outcome
+1044,1043,4112731,Polyp of intestine,outcome
+1044,1043,4234533,Tonsillitis,outcome
+1044,1043,81893,Ulcerative colitis,outcome
+1044,1043,140641,Verruca vulgaris,outcome
+1044,1043,260427,Common cold,outcome
+1044,1043,379019,Conjunctivitis,outcome
+1044,1043,4332246,Aneurysm,outcome
+1044,1043,432585,Blood coagulation disorder,outcome
+1044,1043,195588,Cystitis,outcome
+1044,1043,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1044,1043,4010658,Difficulty passing urine,outcome
+1044,1043,440674,Gout,outcome
+1044,1043,4078925,Pulmonary edema,outcome
+1044,1043,378416,Retinal disorder,outcome
+1044,1043,138455,Stomatitis,outcome
+1045,1046,376707,Acute conjunctivitis,outcome
+1045,1046,378424,Astigmatism,outcome
+1045,1046,381581,Chalazion,outcome
+1045,1046,134438,Contact dermatitis,outcome
+1045,1046,201606,Crohn's disease,outcome
+1045,1046,260134,Croup,outcome
+1045,1046,196456,Gallstone,outcome
+1045,1046,4166231,Genetic predisposition,outcome
+1045,1046,441788,Human papilloma virus infection,outcome
+1045,1046,140480,Impetigo,outcome
+1045,1046,139099,Ingrowing nail,outcome
+1045,1046,75576,Irritable bowel syndrome,outcome
+1045,1046,4134455,Mononeuropathy,outcome
+1045,1046,4215978,Onychomycosis,outcome
+1045,1046,140648,Onychomycosis due to dermatophyte,outcome
+1045,1046,4091513,Passing flatus,outcome
+1045,1046,4112731,Polyp of intestine,outcome
+1045,1046,4234533,Tonsillitis,outcome
+1045,1046,81893,Ulcerative colitis,outcome
+1045,1046,140641,Verruca vulgaris,outcome
+1045,1046,260427,Common cold,outcome
+1045,1046,379019,Conjunctivitis,outcome
+1045,1046,4332246,Aneurysm,outcome
+1045,1046,432585,Blood coagulation disorder,outcome
+1045,1046,195588,Cystitis,outcome
+1045,1046,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1045,1046,4010658,Difficulty passing urine,outcome
+1045,1046,440674,Gout,outcome
+1045,1046,4078925,Pulmonary edema,outcome
+1045,1046,378416,Retinal disorder,outcome
+1045,1046,138455,Stomatitis,outcome
+1047,1045,376707,Acute conjunctivitis,outcome
+1047,1045,378424,Astigmatism,outcome
+1047,1045,381581,Chalazion,outcome
+1047,1045,134438,Contact dermatitis,outcome
+1047,1045,201606,Crohn's disease,outcome
+1047,1045,260134,Croup,outcome
+1047,1045,196456,Gallstone,outcome
+1047,1045,4166231,Genetic predisposition,outcome
+1047,1045,441788,Human papilloma virus infection,outcome
+1047,1045,140480,Impetigo,outcome
+1047,1045,139099,Ingrowing nail,outcome
+1047,1045,75576,Irritable bowel syndrome,outcome
+1047,1045,4134455,Mononeuropathy,outcome
+1047,1045,4215978,Onychomycosis,outcome
+1047,1045,140648,Onychomycosis due to dermatophyte,outcome
+1047,1045,4091513,Passing flatus,outcome
+1047,1045,4112731,Polyp of intestine,outcome
+1047,1045,4234533,Tonsillitis,outcome
+1047,1045,81893,Ulcerative colitis,outcome
+1047,1045,140641,Verruca vulgaris,outcome
+1047,1045,260427,Common cold,outcome
+1047,1045,379019,Conjunctivitis,outcome
+1047,1045,4332246,Aneurysm,outcome
+1047,1045,432585,Blood coagulation disorder,outcome
+1047,1045,195588,Cystitis,outcome
+1047,1045,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1047,1045,4010658,Difficulty passing urine,outcome
+1047,1045,440674,Gout,outcome
+1047,1045,4078925,Pulmonary edema,outcome
+1047,1045,378416,Retinal disorder,outcome
+1047,1045,138455,Stomatitis,outcome
+1047,857,376707,Acute conjunctivitis,outcome
+1047,857,378424,Astigmatism,outcome
+1047,857,381581,Chalazion,outcome
+1047,857,134438,Contact dermatitis,outcome
+1047,857,201606,Crohn's disease,outcome
+1047,857,260134,Croup,outcome
+1047,857,196456,Gallstone,outcome
+1047,857,4166231,Genetic predisposition,outcome
+1047,857,441788,Human papilloma virus infection,outcome
+1047,857,140480,Impetigo,outcome
+1047,857,139099,Ingrowing nail,outcome
+1047,857,75576,Irritable bowel syndrome,outcome
+1047,857,4134455,Mononeuropathy,outcome
+1047,857,4215978,Onychomycosis,outcome
+1047,857,140648,Onychomycosis due to dermatophyte,outcome
+1047,857,4091513,Passing flatus,outcome
+1047,857,4112731,Polyp of intestine,outcome
+1047,857,4234533,Tonsillitis,outcome
+1047,857,81893,Ulcerative colitis,outcome
+1047,857,140641,Verruca vulgaris,outcome
+1047,857,260427,Common cold,outcome
+1047,857,379019,Conjunctivitis,outcome
+1047,857,4332246,Aneurysm,outcome
+1047,857,432585,Blood coagulation disorder,outcome
+1047,857,195588,Cystitis,outcome
+1047,857,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1047,857,4010658,Difficulty passing urine,outcome
+1047,857,440674,Gout,outcome
+1047,857,4078925,Pulmonary edema,outcome
+1047,857,378416,Retinal disorder,outcome
+1047,857,138455,Stomatitis,outcome
+1046,857,376707,Acute conjunctivitis,outcome
+1046,857,378424,Astigmatism,outcome
+1046,857,381581,Chalazion,outcome
+1046,857,134438,Contact dermatitis,outcome
+1046,857,201606,Crohn's disease,outcome
+1046,857,260134,Croup,outcome
+1046,857,196456,Gallstone,outcome
+1046,857,4166231,Genetic predisposition,outcome
+1046,857,441788,Human papilloma virus infection,outcome
+1046,857,140480,Impetigo,outcome
+1046,857,139099,Ingrowing nail,outcome
+1046,857,75576,Irritable bowel syndrome,outcome
+1046,857,4134455,Mononeuropathy,outcome
+1046,857,4215978,Onychomycosis,outcome
+1046,857,140648,Onychomycosis due to dermatophyte,outcome
+1046,857,4091513,Passing flatus,outcome
+1046,857,4112731,Polyp of intestine,outcome
+1046,857,4234533,Tonsillitis,outcome
+1046,857,81893,Ulcerative colitis,outcome
+1046,857,140641,Verruca vulgaris,outcome
+1046,857,260427,Common cold,outcome
+1046,857,379019,Conjunctivitis,outcome
+1046,857,4332246,Aneurysm,outcome
+1046,857,432585,Blood coagulation disorder,outcome
+1046,857,195588,Cystitis,outcome
+1046,857,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1046,857,4010658,Difficulty passing urine,outcome
+1046,857,440674,Gout,outcome
+1046,857,4078925,Pulmonary edema,outcome
+1046,857,378416,Retinal disorder,outcome
+1046,857,138455,Stomatitis,outcome
+1047,1046,376707,Acute conjunctivitis,outcome
+1047,1046,378424,Astigmatism,outcome
+1047,1046,381581,Chalazion,outcome
+1047,1046,134438,Contact dermatitis,outcome
+1047,1046,201606,Crohn's disease,outcome
+1047,1046,260134,Croup,outcome
+1047,1046,196456,Gallstone,outcome
+1047,1046,4166231,Genetic predisposition,outcome
+1047,1046,441788,Human papilloma virus infection,outcome
+1047,1046,140480,Impetigo,outcome
+1047,1046,139099,Ingrowing nail,outcome
+1047,1046,75576,Irritable bowel syndrome,outcome
+1047,1046,4134455,Mononeuropathy,outcome
+1047,1046,4215978,Onychomycosis,outcome
+1047,1046,140648,Onychomycosis due to dermatophyte,outcome
+1047,1046,4091513,Passing flatus,outcome
+1047,1046,4112731,Polyp of intestine,outcome
+1047,1046,4234533,Tonsillitis,outcome
+1047,1046,81893,Ulcerative colitis,outcome
+1047,1046,140641,Verruca vulgaris,outcome
+1047,1046,260427,Common cold,outcome
+1047,1046,379019,Conjunctivitis,outcome
+1047,1046,4332246,Aneurysm,outcome
+1047,1046,432585,Blood coagulation disorder,outcome
+1047,1046,195588,Cystitis,outcome
+1047,1046,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1047,1046,4010658,Difficulty passing urine,outcome
+1047,1046,440674,Gout,outcome
+1047,1046,4078925,Pulmonary edema,outcome
+1047,1046,378416,Retinal disorder,outcome
+1047,1046,138455,Stomatitis,outcome
+1041,857,376707,Acute conjunctivitis,outcome
+1041,857,378424,Astigmatism,outcome
+1041,857,381581,Chalazion,outcome
+1041,857,134438,Contact dermatitis,outcome
+1041,857,201606,Crohn's disease,outcome
+1041,857,260134,Croup,outcome
+1041,857,196456,Gallstone,outcome
+1041,857,4166231,Genetic predisposition,outcome
+1041,857,441788,Human papilloma virus infection,outcome
+1041,857,140480,Impetigo,outcome
+1041,857,139099,Ingrowing nail,outcome
+1041,857,75576,Irritable bowel syndrome,outcome
+1041,857,4134455,Mononeuropathy,outcome
+1041,857,4215978,Onychomycosis,outcome
+1041,857,140648,Onychomycosis due to dermatophyte,outcome
+1041,857,4091513,Passing flatus,outcome
+1041,857,4112731,Polyp of intestine,outcome
+1041,857,4234533,Tonsillitis,outcome
+1041,857,81893,Ulcerative colitis,outcome
+1041,857,140641,Verruca vulgaris,outcome
+1041,857,260427,Common cold,outcome
+1041,857,379019,Conjunctivitis,outcome
+1041,857,4332246,Aneurysm,outcome
+1041,857,432585,Blood coagulation disorder,outcome
+1041,857,195588,Cystitis,outcome
+1041,857,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1041,857,4010658,Difficulty passing urine,outcome
+1041,857,440674,Gout,outcome
+1041,857,4078925,Pulmonary edema,outcome
+1041,857,378416,Retinal disorder,outcome
+1041,857,138455,Stomatitis,outcome
+1045,857,376707,Acute conjunctivitis,outcome
+1045,857,378424,Astigmatism,outcome
+1045,857,381581,Chalazion,outcome
+1045,857,134438,Contact dermatitis,outcome
+1045,857,201606,Crohn's disease,outcome
+1045,857,260134,Croup,outcome
+1045,857,196456,Gallstone,outcome
+1045,857,4166231,Genetic predisposition,outcome
+1045,857,441788,Human papilloma virus infection,outcome
+1045,857,140480,Impetigo,outcome
+1045,857,139099,Ingrowing nail,outcome
+1045,857,75576,Irritable bowel syndrome,outcome
+1045,857,4134455,Mononeuropathy,outcome
+1045,857,4215978,Onychomycosis,outcome
+1045,857,140648,Onychomycosis due to dermatophyte,outcome
+1045,857,4091513,Passing flatus,outcome
+1045,857,4112731,Polyp of intestine,outcome
+1045,857,4234533,Tonsillitis,outcome
+1045,857,81893,Ulcerative colitis,outcome
+1045,857,140641,Verruca vulgaris,outcome
+1045,857,260427,Common cold,outcome
+1045,857,379019,Conjunctivitis,outcome
+1045,857,4332246,Aneurysm,outcome
+1045,857,432585,Blood coagulation disorder,outcome
+1045,857,195588,Cystitis,outcome
+1045,857,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
+1045,857,4010658,Difficulty passing urine,outcome
+1045,857,440674,Gout,outcome
+1045,857,4078925,Pulmonary edema,outcome
+1045,857,378416,Retinal disorder,outcome
+1045,857,138455,Stomatitis,outcome

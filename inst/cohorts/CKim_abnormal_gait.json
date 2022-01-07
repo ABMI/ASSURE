@@ -1,0 +1,61 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [{
+      "isExcluded": false,
+      "concept": {
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_ID": 437643,
+        "STANDARD_CONCEPT": "S",
+        "CONCEPT_CODE": "22325002",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_NAME": "Abnormal gait",
+        "DOMAIN_ID": "Observation",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "INVALID_REASON": "V"
+      },
+      "includeMapped": false,
+      "includeDescendants": true
+    }]},
+    "name": "abnormal gait",
+    "id": 0
+  }],
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"Observation": {
+      "ValueAsConcept": null,
+      "ObservationType": null,
+      "CorrelatedCriteria": null,
+      "ObservationTypeExclude": false,
+      "ValueAsString": null,
+      "CodesetId": 0,
+      "ProviderSpecialty": null,
+      "Gender": null,
+      "Unit": null,
+      "ObservationSourceConcept": null,
+      "VisitType": null,
+      "ValueAsNumber": null,
+      "Qualifier": null,
+      "First": true,
+      "OccurrenceStartDate": null,
+      "Age": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}
