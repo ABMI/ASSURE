@@ -8,10 +8,10 @@
 - Tags: **FEEDER-NET**
 
 - Study lead: **Chungsoo Kim**, **Dong Yun Lee**, **Rae Woong Park**, **Yunmi Shin**
-- Study lead forums tag: **[[Chungsoo_Kim]](https://forums.ohdsi.org/u/Chungsoo_Kim)**, **[[RWPark]](https://forums.ohdsi.org/u/rwpark)**
+- Study lead forums tag: **[[Chungsoo_Kim]](https://forums.ohdsi.org/u/Chungsoo_Kim)**, Dong Yun Lee, **[[RWPark]](https://forums.ohdsi.org/u/rwpark)**, Yunmi Shin
 - Study start date: **Dec 1, 2021**
 - Study end date: **-**
-- Protocol: **-**
+- Protocol: **[[Protocol]](https://github.com/ABMI/ASSURE/blob/master/documents/ASSURE_protocol_v1.0.pdf)**
 - Publications: **-**
 - Results explorer: **-**
 
@@ -42,7 +42,7 @@ How to run
 3. Once installed, you can execute the study by modifying and using the code below. For your convenience, this code is also provided under `extras/CodeToRun.R`:
 
 	```r
-	library(adhdAdolescent)
+	library(Assure)
 	
   # Optional: specify where the temporary files (used by the Andromeda package) will be created:
   options(andromedaTempFolder = "s:/andromedaTemp")
@@ -54,7 +54,7 @@ How to run
 	minCellCount <- 5
 	
 	# The folder where the study intermediate and result files will be written:
-	outputFolder <- "s:/adhdAdolescent"
+	outputFolder <- "s:/Assure"
 	
 	# Details for connecting to the server:
 	# See ?DatabaseConnector::createConnectionDetails for help
