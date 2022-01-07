@@ -44,7 +44,7 @@ How to run
 	```r
 	library(Assure)
 	
-  # Optional: specify where the temporary files (used by the Andromeda package) will be created:
+	# Optional: specify where the temporary files (used by the Andromeda package) will be created:
   options(andromedaTempFolder = "s:/andromedaTemp")
 	
 	# Maximum number of cores to be used:
@@ -104,7 +104,7 @@ How to run
   Note that you can save plots from within the Shiny app. It is possible to view results from more than one database by applying `prepareForEvidenceExplorer` to the Results file from each database, and using the same data folder. Set `blind = FALSE` if you wish to be unblinded to the final results.
   
 5. If you want to conduct subgroup studies by sex, you can execute as below
-# subgroup study by sex
+
   ```r
     execute(connectionDetails = connectionDetails,
             cdmDatabaseSchema = cdmDatabaseSchema,
