@@ -1,14 +1,14 @@
-**ASSURE** (Adolescent ADHD and SSRI safety Using REal-world data) study
+**ASSURE** (Adolescent ADHD and SSRI Use in REal-world data) study
 ==============================
 
-<img src="https://img.shields.io/badge/Study%20Status-Design%20Finalized-brightgreen.svg" alt="Study Status: Design Finalized">
+<img src="https://img.shields.io/badge/Study%20Status-Results%20Available-yellow.svg" alt="Study Status: Results Available">
 
 - Analytics use case(s): **Population-level Estimation**
 - Study type: **Clinical Application**
-- Tags: **FEEDER-NET**
+- Tags: **FEEDER-NET**  
 
 - Study lead: **Chungsoo Kim**, **Dong Yun Lee**, **Rae Woong Park**, **Yunmi Shin**
-- Study lead forums tag: **[[Chungsoo_Kim]](https://forums.ohdsi.org/u/Chungsoo_Kim)**, Dong Yun Lee, **[[RWPark]](https://forums.ohdsi.org/u/rwpark)**, Yunmi Shin
+- Study lead forums tag: **[[Chungsoo_Kim]](https://forums.ohdsi.org/u/Chungsoo_Kim)**, **[[Dong Yun Lee]](https://forums.ohdsi.org/u/dy_lee)**, **[[RWPark]](https://forums.ohdsi.org/u/rwpark)**, Yunmi Shin
 - Study start date: **Dec 1, 2021**
 - Study end date: **-**
 - Protocol: **[[Protocol]](https://github.com/ABMI/ASSURE/blob/master/documents/ASSURE_protocol_v1.0.pdf)**
