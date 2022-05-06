@@ -9,59 +9,23 @@
     "EndDate": null
   },
   "ConceptSets": [{
-    "expression": {"items": [
-      {
-        "isExcluded": false,
-        "concept": {
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_ID": 43531003,
-          "STANDARD_CONCEPT": "S",
-          "CONCEPT_CODE": "609558009",
-          "VOCABULARY_ID": "SNOMED",
-          "CONCEPT_NAME": "Essential tremor",
-          "DOMAIN_ID": "Condition",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "CONCEPT_CLASS_ID": "Clinical Finding",
-          "INVALID_REASON": "V"
-        },
-        "includeMapped": false,
-        "includeDescendants": false
+    "expression": {"items": [{
+      "isExcluded": false,
+      "concept": {
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_ID": 443782,
+        "STANDARD_CONCEPT": "S",
+        "CONCEPT_CODE": "26079004",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_NAME": "Tremor",
+        "DOMAIN_ID": "Condition",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "INVALID_REASON": "V"
       },
-      {
-        "isExcluded": false,
-        "concept": {
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_ID": 4151937,
-          "STANDARD_CONCEPT": "S",
-          "CONCEPT_CODE": "31430005",
-          "VOCABULARY_ID": "SNOMED",
-          "CONCEPT_NAME": "Medication-induced postural tremor",
-          "DOMAIN_ID": "Condition",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "CONCEPT_CLASS_ID": "Clinical Finding",
-          "INVALID_REASON": "V"
-        },
-        "includeMapped": false,
-        "includeDescendants": false
-      },
-      {
-        "isExcluded": false,
-        "concept": {
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_ID": 443782,
-          "STANDARD_CONCEPT": "S",
-          "CONCEPT_CODE": "26079004",
-          "VOCABULARY_ID": "SNOMED",
-          "CONCEPT_NAME": "Tremor",
-          "DOMAIN_ID": "Condition",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "CONCEPT_CLASS_ID": "Clinical Finding",
-          "INVALID_REASON": "V"
-        },
-        "includeMapped": false,
-        "includeDescendants": false
-      }
-    ]},
+      "includeMapped": false,
+      "includeDescendants": true
+    }]},
     "name": "tremor",
     "id": 1
   }],

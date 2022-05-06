@@ -92,37 +92,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 872,862,4078925,Pulmonary edema,outcome
 872,862,378416,Retinal disorder,outcome
 872,862,138455,Stomatitis,outcome
-882,862,376707,Acute conjunctivitis,outcome
-882,862,378424,Astigmatism,outcome
-882,862,381581,Chalazion,outcome
-882,862,134438,Contact dermatitis,outcome
-882,862,201606,Crohn's disease,outcome
-882,862,260134,Croup,outcome
-882,862,196456,Gallstone,outcome
-882,862,4166231,Genetic predisposition,outcome
-882,862,441788,Human papilloma virus infection,outcome
-882,862,140480,Impetigo,outcome
-882,862,139099,Ingrowing nail,outcome
-882,862,75576,Irritable bowel syndrome,outcome
-882,862,4134455,Mononeuropathy,outcome
-882,862,4215978,Onychomycosis,outcome
-882,862,140648,Onychomycosis due to dermatophyte,outcome
-882,862,4091513,Passing flatus,outcome
-882,862,4112731,Polyp of intestine,outcome
-882,862,4234533,Tonsillitis,outcome
-882,862,81893,Ulcerative colitis,outcome
-882,862,140641,Verruca vulgaris,outcome
-882,862,260427,Common cold,outcome
-882,862,379019,Conjunctivitis,outcome
-882,862,4332246,Aneurysm,outcome
-882,862,432585,Blood coagulation disorder,outcome
-882,862,195588,Cystitis,outcome
-882,862,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-882,862,4010658,Difficulty passing urine,outcome
-882,862,440674,Gout,outcome
-882,862,4078925,Pulmonary edema,outcome
-882,862,378416,Retinal disorder,outcome
-882,862,138455,Stomatitis,outcome
 877,872,376707,Acute conjunctivitis,outcome
 877,872,378424,Astigmatism,outcome
 877,872,381581,Chalazion,outcome
@@ -154,68 +123,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 877,872,4078925,Pulmonary edema,outcome
 877,872,378416,Retinal disorder,outcome
 877,872,138455,Stomatitis,outcome
-882,877,376707,Acute conjunctivitis,outcome
-882,877,378424,Astigmatism,outcome
-882,877,381581,Chalazion,outcome
-882,877,134438,Contact dermatitis,outcome
-882,877,201606,Crohn's disease,outcome
-882,877,260134,Croup,outcome
-882,877,196456,Gallstone,outcome
-882,877,4166231,Genetic predisposition,outcome
-882,877,441788,Human papilloma virus infection,outcome
-882,877,140480,Impetigo,outcome
-882,877,139099,Ingrowing nail,outcome
-882,877,75576,Irritable bowel syndrome,outcome
-882,877,4134455,Mononeuropathy,outcome
-882,877,4215978,Onychomycosis,outcome
-882,877,140648,Onychomycosis due to dermatophyte,outcome
-882,877,4091513,Passing flatus,outcome
-882,877,4112731,Polyp of intestine,outcome
-882,877,4234533,Tonsillitis,outcome
-882,877,81893,Ulcerative colitis,outcome
-882,877,140641,Verruca vulgaris,outcome
-882,877,260427,Common cold,outcome
-882,877,379019,Conjunctivitis,outcome
-882,877,4332246,Aneurysm,outcome
-882,877,432585,Blood coagulation disorder,outcome
-882,877,195588,Cystitis,outcome
-882,877,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-882,877,4010658,Difficulty passing urine,outcome
-882,877,440674,Gout,outcome
-882,877,4078925,Pulmonary edema,outcome
-882,877,378416,Retinal disorder,outcome
-882,877,138455,Stomatitis,outcome
-882,872,376707,Acute conjunctivitis,outcome
-882,872,378424,Astigmatism,outcome
-882,872,381581,Chalazion,outcome
-882,872,134438,Contact dermatitis,outcome
-882,872,201606,Crohn's disease,outcome
-882,872,260134,Croup,outcome
-882,872,196456,Gallstone,outcome
-882,872,4166231,Genetic predisposition,outcome
-882,872,441788,Human papilloma virus infection,outcome
-882,872,140480,Impetigo,outcome
-882,872,139099,Ingrowing nail,outcome
-882,872,75576,Irritable bowel syndrome,outcome
-882,872,4134455,Mononeuropathy,outcome
-882,872,4215978,Onychomycosis,outcome
-882,872,140648,Onychomycosis due to dermatophyte,outcome
-882,872,4091513,Passing flatus,outcome
-882,872,4112731,Polyp of intestine,outcome
-882,872,4234533,Tonsillitis,outcome
-882,872,81893,Ulcerative colitis,outcome
-882,872,140641,Verruca vulgaris,outcome
-882,872,260427,Common cold,outcome
-882,872,379019,Conjunctivitis,outcome
-882,872,4332246,Aneurysm,outcome
-882,872,432585,Blood coagulation disorder,outcome
-882,872,195588,Cystitis,outcome
-882,872,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-882,872,4010658,Difficulty passing urine,outcome
-882,872,440674,Gout,outcome
-882,872,4078925,Pulmonary edema,outcome
-882,872,378416,Retinal disorder,outcome
-882,872,138455,Stomatitis,outcome
 917,887,376707,Acute conjunctivitis,outcome
 917,887,378424,Astigmatism,outcome
 917,887,381581,Chalazion,outcome
@@ -309,37 +216,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 892,917,4078925,Pulmonary edema,outcome
 892,917,378416,Retinal disorder,outcome
 892,917,138455,Stomatitis,outcome
-902,917,376707,Acute conjunctivitis,outcome
-902,917,378424,Astigmatism,outcome
-902,917,381581,Chalazion,outcome
-902,917,134438,Contact dermatitis,outcome
-902,917,201606,Crohn's disease,outcome
-902,917,260134,Croup,outcome
-902,917,196456,Gallstone,outcome
-902,917,4166231,Genetic predisposition,outcome
-902,917,441788,Human papilloma virus infection,outcome
-902,917,140480,Impetigo,outcome
-902,917,139099,Ingrowing nail,outcome
-902,917,75576,Irritable bowel syndrome,outcome
-902,917,4134455,Mononeuropathy,outcome
-902,917,4215978,Onychomycosis,outcome
-902,917,140648,Onychomycosis due to dermatophyte,outcome
-902,917,4091513,Passing flatus,outcome
-902,917,4112731,Polyp of intestine,outcome
-902,917,4234533,Tonsillitis,outcome
-902,917,81893,Ulcerative colitis,outcome
-902,917,140641,Verruca vulgaris,outcome
-902,917,260427,Common cold,outcome
-902,917,379019,Conjunctivitis,outcome
-902,917,4332246,Aneurysm,outcome
-902,917,432585,Blood coagulation disorder,outcome
-902,917,195588,Cystitis,outcome
-902,917,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-902,917,4010658,Difficulty passing urine,outcome
-902,917,440674,Gout,outcome
-902,917,4078925,Pulmonary edema,outcome
-902,917,378416,Retinal disorder,outcome
-902,917,138455,Stomatitis,outcome
 897,892,376707,Acute conjunctivitis,outcome
 897,892,378424,Astigmatism,outcome
 897,892,381581,Chalazion,outcome
@@ -371,68 +247,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 897,892,4078925,Pulmonary edema,outcome
 897,892,378416,Retinal disorder,outcome
 897,892,138455,Stomatitis,outcome
-902,897,376707,Acute conjunctivitis,outcome
-902,897,378424,Astigmatism,outcome
-902,897,381581,Chalazion,outcome
-902,897,134438,Contact dermatitis,outcome
-902,897,201606,Crohn's disease,outcome
-902,897,260134,Croup,outcome
-902,897,196456,Gallstone,outcome
-902,897,4166231,Genetic predisposition,outcome
-902,897,441788,Human papilloma virus infection,outcome
-902,897,140480,Impetigo,outcome
-902,897,139099,Ingrowing nail,outcome
-902,897,75576,Irritable bowel syndrome,outcome
-902,897,4134455,Mononeuropathy,outcome
-902,897,4215978,Onychomycosis,outcome
-902,897,140648,Onychomycosis due to dermatophyte,outcome
-902,897,4091513,Passing flatus,outcome
-902,897,4112731,Polyp of intestine,outcome
-902,897,4234533,Tonsillitis,outcome
-902,897,81893,Ulcerative colitis,outcome
-902,897,140641,Verruca vulgaris,outcome
-902,897,260427,Common cold,outcome
-902,897,379019,Conjunctivitis,outcome
-902,897,4332246,Aneurysm,outcome
-902,897,432585,Blood coagulation disorder,outcome
-902,897,195588,Cystitis,outcome
-902,897,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-902,897,4010658,Difficulty passing urine,outcome
-902,897,440674,Gout,outcome
-902,897,4078925,Pulmonary edema,outcome
-902,897,378416,Retinal disorder,outcome
-902,897,138455,Stomatitis,outcome
-902,892,376707,Acute conjunctivitis,outcome
-902,892,378424,Astigmatism,outcome
-902,892,381581,Chalazion,outcome
-902,892,134438,Contact dermatitis,outcome
-902,892,201606,Crohn's disease,outcome
-902,892,260134,Croup,outcome
-902,892,196456,Gallstone,outcome
-902,892,4166231,Genetic predisposition,outcome
-902,892,441788,Human papilloma virus infection,outcome
-902,892,140480,Impetigo,outcome
-902,892,139099,Ingrowing nail,outcome
-902,892,75576,Irritable bowel syndrome,outcome
-902,892,4134455,Mononeuropathy,outcome
-902,892,4215978,Onychomycosis,outcome
-902,892,140648,Onychomycosis due to dermatophyte,outcome
-902,892,4091513,Passing flatus,outcome
-902,892,4112731,Polyp of intestine,outcome
-902,892,4234533,Tonsillitis,outcome
-902,892,81893,Ulcerative colitis,outcome
-902,892,140641,Verruca vulgaris,outcome
-902,892,260427,Common cold,outcome
-902,892,379019,Conjunctivitis,outcome
-902,892,4332246,Aneurysm,outcome
-902,892,432585,Blood coagulation disorder,outcome
-902,892,195588,Cystitis,outcome
-902,892,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-902,892,4010658,Difficulty passing urine,outcome
-902,892,440674,Gout,outcome
-902,892,4078925,Pulmonary edema,outcome
-902,892,378416,Retinal disorder,outcome
-902,892,138455,Stomatitis,outcome
 857,867,376707,Acute conjunctivitis,outcome
 857,867,378424,Astigmatism,outcome
 857,867,381581,Chalazion,outcome
@@ -526,37 +340,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 872,857,4078925,Pulmonary edema,outcome
 872,857,378416,Retinal disorder,outcome
 872,857,138455,Stomatitis,outcome
-882,857,376707,Acute conjunctivitis,outcome
-882,857,378424,Astigmatism,outcome
-882,857,381581,Chalazion,outcome
-882,857,134438,Contact dermatitis,outcome
-882,857,201606,Crohn's disease,outcome
-882,857,260134,Croup,outcome
-882,857,196456,Gallstone,outcome
-882,857,4166231,Genetic predisposition,outcome
-882,857,441788,Human papilloma virus infection,outcome
-882,857,140480,Impetigo,outcome
-882,857,139099,Ingrowing nail,outcome
-882,857,75576,Irritable bowel syndrome,outcome
-882,857,4134455,Mononeuropathy,outcome
-882,857,4215978,Onychomycosis,outcome
-882,857,140648,Onychomycosis due to dermatophyte,outcome
-882,857,4091513,Passing flatus,outcome
-882,857,4112731,Polyp of intestine,outcome
-882,857,4234533,Tonsillitis,outcome
-882,857,81893,Ulcerative colitis,outcome
-882,857,140641,Verruca vulgaris,outcome
-882,857,260427,Common cold,outcome
-882,857,379019,Conjunctivitis,outcome
-882,857,4332246,Aneurysm,outcome
-882,857,432585,Blood coagulation disorder,outcome
-882,857,195588,Cystitis,outcome
-882,857,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-882,857,4010658,Difficulty passing urine,outcome
-882,857,440674,Gout,outcome
-882,857,4078925,Pulmonary edema,outcome
-882,857,378416,Retinal disorder,outcome
-882,857,138455,Stomatitis,outcome
 912,887,376707,Acute conjunctivitis,outcome
 912,887,378424,Astigmatism,outcome
 912,887,381581,Chalazion,outcome
@@ -619,37 +402,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 897,912,4078925,Pulmonary edema,outcome
 897,912,378416,Retinal disorder,outcome
 897,912,138455,Stomatitis,outcome
-902,912,376707,Acute conjunctivitis,outcome
-902,912,378424,Astigmatism,outcome
-902,912,381581,Chalazion,outcome
-902,912,134438,Contact dermatitis,outcome
-902,912,201606,Crohn's disease,outcome
-902,912,260134,Croup,outcome
-902,912,196456,Gallstone,outcome
-902,912,4166231,Genetic predisposition,outcome
-902,912,441788,Human papilloma virus infection,outcome
-902,912,140480,Impetigo,outcome
-902,912,139099,Ingrowing nail,outcome
-902,912,75576,Irritable bowel syndrome,outcome
-902,912,4134455,Mononeuropathy,outcome
-902,912,4215978,Onychomycosis,outcome
-902,912,140648,Onychomycosis due to dermatophyte,outcome
-902,912,4091513,Passing flatus,outcome
-902,912,4112731,Polyp of intestine,outcome
-902,912,4234533,Tonsillitis,outcome
-902,912,81893,Ulcerative colitis,outcome
-902,912,140641,Verruca vulgaris,outcome
-902,912,260427,Common cold,outcome
-902,912,379019,Conjunctivitis,outcome
-902,912,4332246,Aneurysm,outcome
-902,912,432585,Blood coagulation disorder,outcome
-902,912,195588,Cystitis,outcome
-902,912,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-902,912,4010658,Difficulty passing urine,outcome
-902,912,440674,Gout,outcome
-902,912,4078925,Pulmonary edema,outcome
-902,912,378416,Retinal disorder,outcome
-902,912,138455,Stomatitis,outcome
 892,912,376707,Acute conjunctivitis,outcome
 892,912,378424,Astigmatism,outcome
 892,912,381581,Chalazion,outcome
@@ -960,37 +712,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 1042,912,4078925,Pulmonary edema,outcome
 1042,912,378416,Retinal disorder,outcome
 1042,912,138455,Stomatitis,outcome
-1044,912,376707,Acute conjunctivitis,outcome
-1044,912,378424,Astigmatism,outcome
-1044,912,381581,Chalazion,outcome
-1044,912,134438,Contact dermatitis,outcome
-1044,912,201606,Crohn's disease,outcome
-1044,912,260134,Croup,outcome
-1044,912,196456,Gallstone,outcome
-1044,912,4166231,Genetic predisposition,outcome
-1044,912,441788,Human papilloma virus infection,outcome
-1044,912,140480,Impetigo,outcome
-1044,912,139099,Ingrowing nail,outcome
-1044,912,75576,Irritable bowel syndrome,outcome
-1044,912,4134455,Mononeuropathy,outcome
-1044,912,4215978,Onychomycosis,outcome
-1044,912,140648,Onychomycosis due to dermatophyte,outcome
-1044,912,4091513,Passing flatus,outcome
-1044,912,4112731,Polyp of intestine,outcome
-1044,912,4234533,Tonsillitis,outcome
-1044,912,81893,Ulcerative colitis,outcome
-1044,912,140641,Verruca vulgaris,outcome
-1044,912,260427,Common cold,outcome
-1044,912,379019,Conjunctivitis,outcome
-1044,912,4332246,Aneurysm,outcome
-1044,912,432585,Blood coagulation disorder,outcome
-1044,912,195588,Cystitis,outcome
-1044,912,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-1044,912,4010658,Difficulty passing urine,outcome
-1044,912,440674,Gout,outcome
-1044,912,4078925,Pulmonary edema,outcome
-1044,912,378416,Retinal disorder,outcome
-1044,912,138455,Stomatitis,outcome
 1042,1043,376707,Acute conjunctivitis,outcome
 1042,1043,378424,Astigmatism,outcome
 1042,1043,381581,Chalazion,outcome
@@ -1022,68 +743,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 1042,1043,4078925,Pulmonary edema,outcome
 1042,1043,378416,Retinal disorder,outcome
 1042,1043,138455,Stomatitis,outcome
-1044,1042,376707,Acute conjunctivitis,outcome
-1044,1042,378424,Astigmatism,outcome
-1044,1042,381581,Chalazion,outcome
-1044,1042,134438,Contact dermatitis,outcome
-1044,1042,201606,Crohn's disease,outcome
-1044,1042,260134,Croup,outcome
-1044,1042,196456,Gallstone,outcome
-1044,1042,4166231,Genetic predisposition,outcome
-1044,1042,441788,Human papilloma virus infection,outcome
-1044,1042,140480,Impetigo,outcome
-1044,1042,139099,Ingrowing nail,outcome
-1044,1042,75576,Irritable bowel syndrome,outcome
-1044,1042,4134455,Mononeuropathy,outcome
-1044,1042,4215978,Onychomycosis,outcome
-1044,1042,140648,Onychomycosis due to dermatophyte,outcome
-1044,1042,4091513,Passing flatus,outcome
-1044,1042,4112731,Polyp of intestine,outcome
-1044,1042,4234533,Tonsillitis,outcome
-1044,1042,81893,Ulcerative colitis,outcome
-1044,1042,140641,Verruca vulgaris,outcome
-1044,1042,260427,Common cold,outcome
-1044,1042,379019,Conjunctivitis,outcome
-1044,1042,4332246,Aneurysm,outcome
-1044,1042,432585,Blood coagulation disorder,outcome
-1044,1042,195588,Cystitis,outcome
-1044,1042,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-1044,1042,4010658,Difficulty passing urine,outcome
-1044,1042,440674,Gout,outcome
-1044,1042,4078925,Pulmonary edema,outcome
-1044,1042,378416,Retinal disorder,outcome
-1044,1042,138455,Stomatitis,outcome
-1044,1043,376707,Acute conjunctivitis,outcome
-1044,1043,378424,Astigmatism,outcome
-1044,1043,381581,Chalazion,outcome
-1044,1043,134438,Contact dermatitis,outcome
-1044,1043,201606,Crohn's disease,outcome
-1044,1043,260134,Croup,outcome
-1044,1043,196456,Gallstone,outcome
-1044,1043,4166231,Genetic predisposition,outcome
-1044,1043,441788,Human papilloma virus infection,outcome
-1044,1043,140480,Impetigo,outcome
-1044,1043,139099,Ingrowing nail,outcome
-1044,1043,75576,Irritable bowel syndrome,outcome
-1044,1043,4134455,Mononeuropathy,outcome
-1044,1043,4215978,Onychomycosis,outcome
-1044,1043,140648,Onychomycosis due to dermatophyte,outcome
-1044,1043,4091513,Passing flatus,outcome
-1044,1043,4112731,Polyp of intestine,outcome
-1044,1043,4234533,Tonsillitis,outcome
-1044,1043,81893,Ulcerative colitis,outcome
-1044,1043,140641,Verruca vulgaris,outcome
-1044,1043,260427,Common cold,outcome
-1044,1043,379019,Conjunctivitis,outcome
-1044,1043,4332246,Aneurysm,outcome
-1044,1043,432585,Blood coagulation disorder,outcome
-1044,1043,195588,Cystitis,outcome
-1044,1043,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-1044,1043,4010658,Difficulty passing urine,outcome
-1044,1043,440674,Gout,outcome
-1044,1043,4078925,Pulmonary edema,outcome
-1044,1043,378416,Retinal disorder,outcome
-1044,1043,138455,Stomatitis,outcome
 1045,1046,376707,Acute conjunctivitis,outcome
 1045,1046,378424,Astigmatism,outcome
 1045,1046,381581,Chalazion,outcome
@@ -1115,68 +774,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 1045,1046,4078925,Pulmonary edema,outcome
 1045,1046,378416,Retinal disorder,outcome
 1045,1046,138455,Stomatitis,outcome
-1047,1045,376707,Acute conjunctivitis,outcome
-1047,1045,378424,Astigmatism,outcome
-1047,1045,381581,Chalazion,outcome
-1047,1045,134438,Contact dermatitis,outcome
-1047,1045,201606,Crohn's disease,outcome
-1047,1045,260134,Croup,outcome
-1047,1045,196456,Gallstone,outcome
-1047,1045,4166231,Genetic predisposition,outcome
-1047,1045,441788,Human papilloma virus infection,outcome
-1047,1045,140480,Impetigo,outcome
-1047,1045,139099,Ingrowing nail,outcome
-1047,1045,75576,Irritable bowel syndrome,outcome
-1047,1045,4134455,Mononeuropathy,outcome
-1047,1045,4215978,Onychomycosis,outcome
-1047,1045,140648,Onychomycosis due to dermatophyte,outcome
-1047,1045,4091513,Passing flatus,outcome
-1047,1045,4112731,Polyp of intestine,outcome
-1047,1045,4234533,Tonsillitis,outcome
-1047,1045,81893,Ulcerative colitis,outcome
-1047,1045,140641,Verruca vulgaris,outcome
-1047,1045,260427,Common cold,outcome
-1047,1045,379019,Conjunctivitis,outcome
-1047,1045,4332246,Aneurysm,outcome
-1047,1045,432585,Blood coagulation disorder,outcome
-1047,1045,195588,Cystitis,outcome
-1047,1045,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-1047,1045,4010658,Difficulty passing urine,outcome
-1047,1045,440674,Gout,outcome
-1047,1045,4078925,Pulmonary edema,outcome
-1047,1045,378416,Retinal disorder,outcome
-1047,1045,138455,Stomatitis,outcome
-1047,857,376707,Acute conjunctivitis,outcome
-1047,857,378424,Astigmatism,outcome
-1047,857,381581,Chalazion,outcome
-1047,857,134438,Contact dermatitis,outcome
-1047,857,201606,Crohn's disease,outcome
-1047,857,260134,Croup,outcome
-1047,857,196456,Gallstone,outcome
-1047,857,4166231,Genetic predisposition,outcome
-1047,857,441788,Human papilloma virus infection,outcome
-1047,857,140480,Impetigo,outcome
-1047,857,139099,Ingrowing nail,outcome
-1047,857,75576,Irritable bowel syndrome,outcome
-1047,857,4134455,Mononeuropathy,outcome
-1047,857,4215978,Onychomycosis,outcome
-1047,857,140648,Onychomycosis due to dermatophyte,outcome
-1047,857,4091513,Passing flatus,outcome
-1047,857,4112731,Polyp of intestine,outcome
-1047,857,4234533,Tonsillitis,outcome
-1047,857,81893,Ulcerative colitis,outcome
-1047,857,140641,Verruca vulgaris,outcome
-1047,857,260427,Common cold,outcome
-1047,857,379019,Conjunctivitis,outcome
-1047,857,4332246,Aneurysm,outcome
-1047,857,432585,Blood coagulation disorder,outcome
-1047,857,195588,Cystitis,outcome
-1047,857,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-1047,857,4010658,Difficulty passing urine,outcome
-1047,857,440674,Gout,outcome
-1047,857,4078925,Pulmonary edema,outcome
-1047,857,378416,Retinal disorder,outcome
-1047,857,138455,Stomatitis,outcome
 1046,857,376707,Acute conjunctivitis,outcome
 1046,857,378424,Astigmatism,outcome
 1046,857,381581,Chalazion,outcome
@@ -1208,37 +805,6 @@ targetId,comparatorId,outcomeId,outcomeName,type
 1046,857,4078925,Pulmonary edema,outcome
 1046,857,378416,Retinal disorder,outcome
 1046,857,138455,Stomatitis,outcome
-1047,1046,376707,Acute conjunctivitis,outcome
-1047,1046,378424,Astigmatism,outcome
-1047,1046,381581,Chalazion,outcome
-1047,1046,134438,Contact dermatitis,outcome
-1047,1046,201606,Crohn's disease,outcome
-1047,1046,260134,Croup,outcome
-1047,1046,196456,Gallstone,outcome
-1047,1046,4166231,Genetic predisposition,outcome
-1047,1046,441788,Human papilloma virus infection,outcome
-1047,1046,140480,Impetigo,outcome
-1047,1046,139099,Ingrowing nail,outcome
-1047,1046,75576,Irritable bowel syndrome,outcome
-1047,1046,4134455,Mononeuropathy,outcome
-1047,1046,4215978,Onychomycosis,outcome
-1047,1046,140648,Onychomycosis due to dermatophyte,outcome
-1047,1046,4091513,Passing flatus,outcome
-1047,1046,4112731,Polyp of intestine,outcome
-1047,1046,4234533,Tonsillitis,outcome
-1047,1046,81893,Ulcerative colitis,outcome
-1047,1046,140641,Verruca vulgaris,outcome
-1047,1046,260427,Common cold,outcome
-1047,1046,379019,Conjunctivitis,outcome
-1047,1046,4332246,Aneurysm,outcome
-1047,1046,432585,Blood coagulation disorder,outcome
-1047,1046,195588,Cystitis,outcome
-1047,1046,77310,Deep vein phlebitis and thrombophlebitis of the leg,outcome
-1047,1046,4010658,Difficulty passing urine,outcome
-1047,1046,440674,Gout,outcome
-1047,1046,4078925,Pulmonary edema,outcome
-1047,1046,378416,Retinal disorder,outcome
-1047,1046,138455,Stomatitis,outcome
 1041,857,376707,Acute conjunctivitis,outcome
 1041,857,378424,Astigmatism,outcome
 1041,857,381581,Chalazion,outcome

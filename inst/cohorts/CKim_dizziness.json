@@ -24,7 +24,7 @@
         "INVALID_REASON": "V"
       },
       "includeMapped": false,
-      "includeDescendants": false
+      "includeDescendants": true
     }]},
     "name": "dizziness",
     "id": 0

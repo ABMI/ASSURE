@@ -50,11 +50,11 @@ UNION  select c.concept_id
 ) I
 LEFT JOIN
 (
-  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (750982)
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (750982,21604741)
 UNION  select c.concept_id
   from @vocabulary_database_schema.CONCEPT c
   join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
-  and ca.ancestor_concept_id in (750982)
+  and ca.ancestor_concept_id in (750982,21604741)
   and c.invalid_reason is null
 
 ) E ON I.concept_id = E.concept_id
@@ -62,22 +62,22 @@ WHERE E.concept_id is null
 ) C UNION ALL 
 SELECT 4 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
 ( 
-  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (705944)
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (705944,21604757)
 UNION  select c.concept_id
   from @vocabulary_database_schema.CONCEPT c
   join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
-  and ca.ancestor_concept_id in (705944)
+  and ca.ancestor_concept_id in (705944,21604757)
   and c.invalid_reason is null
 
 ) I
 ) C UNION ALL 
 SELECT 6 as codeset_id, c.concept_id FROM (select distinct I.concept_id FROM
 ( 
-  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (742185,750982,21600398)
+  select concept_id from @vocabulary_database_schema.CONCEPT where concept_id in (742185,750982,21600398,21604741,21604762)
 UNION  select c.concept_id
   from @vocabulary_database_schema.CONCEPT c
   join @vocabulary_database_schema.CONCEPT_ANCESTOR ca on c.concept_id = ca.descendant_concept_id
-  and ca.ancestor_concept_id in (742185,750982,21600398)
+  and ca.ancestor_concept_id in (742185,750982,21600398,21604741,21604762)
   and c.invalid_reason is null
 
 ) I
@@ -160,7 +160,7 @@ FROM
 (
   SELECT co.* , row_number() over (PARTITION BY co.person_id ORDER BY co.condition_start_date, co.condition_occurrence_id) as ordinal
   FROM @cdm_database_schema.CONDITION_OCCURRENCE co
-  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 1))
+  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 2))
 ) C
 
 WHERE C.condition_start_date >= DATEFROMPARTS(2017, 1, 1)
@@ -209,7 +209,7 @@ FROM
 (
   SELECT co.* , row_number() over (PARTITION BY co.person_id ORDER BY co.condition_start_date, co.condition_occurrence_id) as ordinal
   FROM @cdm_database_schema.CONDITION_OCCURRENCE co
-  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 2))
+  JOIN #Codesets codesets on ((co.condition_concept_id = codesets.concept_id and codesets.codeset_id = 1))
 ) C
 
 WHERE C.condition_start_date >= DATEFROMPARTS(2017, 1, 1)
@@ -261,13 +261,13 @@ from
 (
   select de.* 
   FROM @cdm_database_schema.DRUG_EXPOSURE de
-JOIN #Codesets codesets on ((de.drug_concept_id = codesets.concept_id and codesets.codeset_id = 3))
+JOIN #Codesets codesets on ((de.drug_concept_id = codesets.concept_id and codesets.codeset_id = 6))
 ) C
 
 
 -- End Drug Exposure Criteria
 
-) A on A.person_id = P.person_id  AND A.START_DATE >= P.OP_START_DATE AND A.START_DATE <= P.OP_END_DATE AND A.START_DATE >= P.OP_START_DATE AND A.START_DATE <= DATEADD(day,0,P.START_DATE) ) cc on p.person_id = cc.person_id and p.event_id = cc.event_id
+) A on A.person_id = P.person_id  AND A.START_DATE >= P.OP_START_DATE AND A.START_DATE <= P.OP_END_DATE AND A.START_DATE >= P.OP_START_DATE AND A.START_DATE <= P.OP_END_DATE ) cc on p.person_id = cc.person_id and p.event_id = cc.event_id
 GROUP BY p.person_id, p.event_id
 HAVING COUNT(cc.event_id) = 0
 -- End Correlated Criteria
@@ -312,13 +312,13 @@ from
 (
   select de.* 
   FROM @cdm_database_schema.DRUG_EXPOSURE de
-JOIN #Codesets codesets on ((de.drug_concept_id = codesets.concept_id and codesets.codeset_id = 6))
+JOIN #Codesets codesets on ((de.drug_concept_id = codesets.concept_id and codesets.codeset_id = 3))
 ) C
 
 
 -- End Drug Exposure Criteria
 
-) A on A.person_id = P.person_id  AND A.START_DATE >= P.OP_START_DATE AND A.START_DATE <= P.OP_END_DATE AND A.START_DATE >= P.OP_START_DATE AND A.START_DATE <= P.OP_END_DATE ) cc on p.person_id = cc.person_id and p.event_id = cc.event_id
+) A on A.person_id = P.person_id  AND A.START_DATE >= P.OP_START_DATE AND A.START_DATE <= P.OP_END_DATE AND A.START_DATE >= P.OP_START_DATE AND A.START_DATE <= DATEADD(day,0,P.START_DATE) ) cc on p.person_id = cc.person_id and p.event_id = cc.event_id
 GROUP BY p.person_id, p.event_id
 HAVING COUNT(cc.event_id) = 0
 -- End Correlated Criteria

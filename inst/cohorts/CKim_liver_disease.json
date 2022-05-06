@@ -29,6 +29,10 @@
     "name": "liver disease",
     "id": 1
   }],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "StartDate",
+    "Offset": 0
+  }},
   "cdmVersionRange": ">=5.0.0",
   "CensoringCriteria": [],
   "QualifiedLimit": {"Type": "First"},

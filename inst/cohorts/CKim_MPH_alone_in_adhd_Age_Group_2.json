@@ -158,29 +158,65 @@
           },
           "includeMapped": false,
           "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604741,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "N06AX12",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "bupropion; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
         }
       ]},
       "name": "[dylee]antidepressant",
       "id": 3
     },
     {
-      "expression": {"items": [{
-        "isExcluded": false,
-        "concept": {
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_ID": 705944,
-          "STANDARD_CONCEPT": "S",
-          "CONCEPT_CODE": "6901",
-          "VOCABULARY_ID": "RxNorm",
-          "CONCEPT_NAME": "methylphenidate",
-          "DOMAIN_ID": "Drug",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "CONCEPT_CLASS_ID": "Ingredient",
-          "INVALID_REASON": "V"
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 705944,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "6901",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "methylphenidate",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
         },
-        "includeMapped": false,
-        "includeDescendants": true
-      }]},
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604757,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "N06BA04",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "methylphenidate; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
       "name": "MPH",
       "id": 4
     },
@@ -229,6 +265,40 @@
             "CONCEPT_CODE": "C02AC01",
             "VOCABULARY_ID": "ATC",
             "CONCEPT_NAME": "clonidine; systemic",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604741,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "N06AX12",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "bupropion; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604762,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "N06BA09",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "atomoxetine; oral",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Classification",
             "CONCEPT_CLASS_ID": "ATC 5th",
@@ -295,59 +365,6 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "ConditionTypeExclude": false,
-            "CodesetId": 1,
-            "ProviderSpecialty": null,
-            "Gender": null,
-            "VisitType": null,
-            "First": true,
-            "OccurrenceStartDate": {
-              "Op": "gte",
-              "Extent": null,
-              "Value": "2017-01-01"
-            },
-            "ConditionType": null,
-            "ConditionSourceConcept": null,
-            "ConditionStatus": null,
-            "StopReason": null,
-            "Age": null
-          }},
-          "Occurrence": {
-            "Type": 2,
-            "CountColumn": null,
-            "IsDistinct": false,
-            "Count": 1
-          }
-        }],
-        "Type": "ALL",
-        "DemographicCriteriaList": [],
-        "Groups": [],
-        "Count": null
-      },
-      "name": "with depression",
-      "description": null
-    },
-    {
-      "expression": {
-        "CriteriaList": [{
-          "RestrictVisit": false,
-          "StartWindow": {
-            "UseEventEnd": false,
-            "Start": {
-              "Days": null,
-              "Coeff": -1
-            },
-            "End": {
-              "Days": 0,
-              "Coeff": 1
-            },
-            "UseIndexEnd": false
-          },
-          "IgnoreObservationPeriod": false,
-          "EndWindow": null,
-          "Criteria": {"ConditionOccurrence": {
-            "OccurrenceEndDate": null,
-            "CorrelatedCriteria": null,
-            "ConditionTypeExclude": false,
             "CodesetId": 2,
             "ProviderSpecialty": null,
             "Gender": null,
@@ -391,39 +408,37 @@
             },
             "End": {
               "Days": 0,
-              "Coeff": -1
+              "Coeff": 1
             },
             "UseIndexEnd": false
           },
           "IgnoreObservationPeriod": false,
           "EndWindow": null,
-          "Criteria": {"DrugExposure": {
+          "Criteria": {"ConditionOccurrence": {
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
-            "DrugSourceConcept": null,
-            "CodesetId": 3,
-            "DrugTypeExclude": false,
-            "Quantity": null,
-            "DrugType": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 1,
             "ProviderSpecialty": null,
-            "EffectiveDrugDose": null,
             "Gender": null,
-            "DaysSupply": null,
-            "DoseUnit": null,
             "VisitType": null,
-            "Refills": null,
-            "First": null,
-            "OccurrenceStartDate": null,
-            "RouteConcept": null,
+            "First": true,
+            "OccurrenceStartDate": {
+              "Op": "gte",
+              "Extent": null,
+              "Value": "2017-01-01"
+            },
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "ConditionStatus": null,
             "StopReason": null,
-            "LotNumber": null,
             "Age": null
           }},
           "Occurrence": {
-            "Type": 0,
+            "Type": 2,
             "CountColumn": null,
             "IsDistinct": false,
-            "Count": 0
+            "Count": 1
           }
         }],
         "Type": "ALL",
@@ -431,7 +446,7 @@
         "Groups": [],
         "Count": null
       },
-      "name": "without antidepressants",
+      "name": "with depression",
       "description": null
     },
     {
@@ -487,6 +502,61 @@
         "Count": null
       },
       "name": "without other antiADHD",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"DrugExposure": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "DrugSourceConcept": null,
+            "CodesetId": 3,
+            "DrugTypeExclude": false,
+            "Quantity": null,
+            "DrugType": null,
+            "ProviderSpecialty": null,
+            "EffectiveDrugDose": null,
+            "Gender": null,
+            "DaysSupply": null,
+            "DoseUnit": null,
+            "VisitType": null,
+            "Refills": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "RouteConcept": null,
+            "StopReason": null,
+            "LotNumber": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "without antidepressants",
       "description": null
     }
   ],

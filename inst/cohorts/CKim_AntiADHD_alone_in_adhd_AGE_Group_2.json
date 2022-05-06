@@ -10,27 +10,6 @@
   },
   "ConceptSets": [
     {
-      "expression": {"items": [{
-        "isExcluded": false,
-        "concept": {
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_ID": 739138,
-          "STANDARD_CONCEPT": "S",
-          "CONCEPT_CODE": "36437",
-          "VOCABULARY_ID": "RxNorm",
-          "CONCEPT_NAME": "sertraline",
-          "DOMAIN_ID": "Drug",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "CONCEPT_CLASS_ID": "Ingredient",
-          "INVALID_REASON": "V"
-        },
-        "includeMapped": false,
-        "includeDescendants": true
-      }]},
-      "name": "[dylee]sertraline",
-      "id": 0
-    },
-    {
       "expression": {"items": [
         {
           "isExcluded": false,
@@ -179,77 +158,16 @@
           },
           "includeMapped": false,
           "includeDescendants": true
-        }
-      ]},
-      "name": "[dylee]antidepressant",
-      "id": 3
-    },
-    {
-      "expression": {"items": [{
-        "isExcluded": false,
-        "concept": {
-          "INVALID_REASON_CAPTION": "Valid",
-          "CONCEPT_ID": 705944,
-          "STANDARD_CONCEPT": "S",
-          "CONCEPT_CODE": "6901",
-          "VOCABULARY_ID": "RxNorm",
-          "CONCEPT_NAME": "methylphenidate",
-          "DOMAIN_ID": "Drug",
-          "STANDARD_CONCEPT_CAPTION": "Standard",
-          "CONCEPT_CLASS_ID": "Ingredient",
-          "INVALID_REASON": "V"
-        },
-        "includeMapped": false,
-        "includeDescendants": true
-      }]},
-      "name": "MPH",
-      "id": 4
-    },
-    {
-      "expression": {"items": [
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 742185,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "38400",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "atomoxetine",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
         },
         {
-          "isExcluded": false,
+          "isExcluded": true,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 750982,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "42347",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "bupropion",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 21600398,
+            "CONCEPT_ID": 21604741,
             "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "C02AC01",
+            "CONCEPT_CODE": "N06AX12",
             "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "clonidine; systemic",
+            "CONCEPT_NAME": "bupropion; oral",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Classification",
             "CONCEPT_CLASS_ID": "ATC 5th",
@@ -257,27 +175,10 @@
           },
           "includeMapped": false,
           "includeDescendants": true
-        },
-        {
-          "isExcluded": true,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 36249641,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "1801289",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "Smoking Cessation 12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Drug",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": false
         }
       ]},
-      "name": "other anti-ADHD",
-      "id": 6
+      "name": "[dylee]antidepressant",
+      "id": 3
     },
     {
       "expression": {"items": [
@@ -341,6 +242,57 @@
             "CONCEPT_CODE": "C02AC01",
             "VOCABULARY_ID": "ATC",
             "CONCEPT_NAME": "clonidine; systemic",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604762,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "N06BA09",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "atomoxetine; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604741,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "N06AX12",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "bupropion; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604757,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "N06BA04",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "methylphenidate; oral",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Classification",
             "CONCEPT_CLASS_ID": "ATC 5th",
